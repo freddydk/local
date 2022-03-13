@@ -1,5 +1,5 @@
-{
-    "id":  "b1c33c69-2467-49c6-8091-a6d9f36a3e89",
+﻿{
+    "id":  "179c6469-2a69-4c39-b467-9b02fba5ee61",
     "name":  "Business Central Cloud Migration - Previous Release (IT) Tests",
     "publisher":  "Microsoft",
     "version":  "20.0.0.0",
@@ -53,11 +53,11 @@
 
                     ],
     "platform":  "20.0.0.0",
-    "resourceExposurePolicy": {
-        "allowDebugging": false,
-        "allowDownloadingSource": true,
-        "includeSourceInSymbolFile": true
-    },
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  false,
+                                   "allowDownloadingSource":  true,
+                                   "includeSourceInSymbolFile":  true
+                               },
     "target":  "OnPrem",
     "application":  "20.0.0.0"
 }
