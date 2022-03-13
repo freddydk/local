@@ -1,5 +1,5 @@
-{
-    "id":  "d3a5679c-d8b5-4ed6-b9e0-d4a25f7bf55d",
+﻿{
+    "id":  "ff6302ab-aada-432b-a7b0-004a51b25f2c",
     "name":  "Business Central Cloud Migration - Previous Release (AU) Tests",
     "publisher":  "Microsoft",
     "version":  "20.0.0.0",
@@ -53,11 +53,11 @@
 
                     ],
     "platform":  "20.0.0.0",
-    "resourceExposurePolicy": {
-        "allowDebugging": false,
-        "allowDownloadingSource": true,
-        "includeSourceInSymbolFile": true
-    },
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  false,
+                                   "allowDownloadingSource":  true,
+                                   "includeSourceInSymbolFile":  true
+                               },
     "target":  "OnPrem",
     "application":  "20.0.0.0"
 }
