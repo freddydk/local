@@ -1,0 +1,20 @@
+{
+    "country":  "no",
+    "appFolders":  [
+                       "ElectronicVATSubmission\\app",
+                       "ImportNOPayroll\\app",
+                       "NorwegianSAFT\\app"
+                   ],
+    "testFolders":  [
+                        "ElectronicVATSubmission\\test",
+                        "ImportNOPayroll\\test",
+                        "NorwegianSAFT\\test"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//no/latest",
+    "enablePerTenantExtensionCop":  false,
+    "appDependencyProbingPaths":  [
+                                      {
+                                          "repo":  "https://github.com/freddydk/global"
+                                      }
+                                  ]
+}

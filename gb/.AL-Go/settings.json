@@ -1,0 +1,18 @@
+{
+    "country":  "gb",
+    "appFolders":  [
+                       "UKMakingTaxDigital\\app",
+                       "UKPostcodeGetAddressIO\\app"
+                   ],
+    "testFolders":  [
+                        "UKMakingTaxDigital\\test",
+                        "UKPostcodeGetAddressIO\\test"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//gb/latest",
+    "enablePerTenantExtensionCop":  false,
+    "appDependencyProbingPaths":  [
+                                      {
+                                          "repo":  "https://github.com/freddydk/global"
+                                      }
+                                  ]
+}

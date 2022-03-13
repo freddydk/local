@@ -1,0 +1,16 @@
+{
+    "country":  "nz",
+    "appFolders":  [
+                       "HybridBCLast_NZ\\app"
+                   ],
+    "testFolders":  [
+                        "HybridBCLast_NZ\\test"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//nz/latest",
+    "enablePerTenantExtensionCop":  false,
+    "appDependencyProbingPaths":  [
+                                      {
+                                          "repo":  "https://github.com/freddydk/global"
+                                      }
+                                  ]
+}

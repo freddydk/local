@@ -1,0 +1,16 @@
+{
+    "country":  "de",
+    "appFolders":  [
+                       "Onprem Permissions DACH\\app"
+                   ],
+    "testFolders":  [
+                        "Onprem Permissions DACH\\test"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//de/latest",
+    "enablePerTenantExtensionCop":  false,
+    "appDependencyProbingPaths":  [
+                                      {
+                                          "repo":  "https://github.com/freddydk/global"
+                                      }
+                                  ]
+}

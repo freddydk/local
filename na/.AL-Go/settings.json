@@ -1,0 +1,21 @@
+{
+    "country":  "us",
+    "appFolders":  [
+                       "Ceridian\\app",
+                       "EnvestnetYodleeBankFeeds\\app",
+                       "MX_DIOT\\app",
+                       "Onprem Permissions NA\\app"
+                   ],
+    "testFolders":  [
+                        "EnvestnetYodleeBankFeeds\\test",
+                        "MX_DIOT\\test",
+                        "Onprem Permissions NA\\test"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//us/latest",
+    "enablePerTenantExtensionCop":  false,
+    "appDependencyProbingPaths":  [
+                                      {
+                                          "repo":  "https://github.com/freddydk/global"
+                                      }
+                                  ]
+}

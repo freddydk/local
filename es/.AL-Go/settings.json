@@ -1,0 +1,18 @@
+{
+    "country":  "es",
+    "appFolders":  [
+                       "HybridBCLast_ES\\app",
+                       "Onprem Permissions ES\\app"
+                   ],
+    "testFolders":  [
+                        "HybridBCLast_ES\\test",
+                        "Onprem Permissions ES\\test"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//es/latest",
+    "enablePerTenantExtensionCop":  false,
+    "appDependencyProbingPaths":  [
+                                      {
+                                          "repo":  "https://github.com/freddydk/global"
+                                      }
+                                  ]
+}

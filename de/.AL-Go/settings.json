@@ -1,0 +1,18 @@
+{
+    "country":  "de",
+    "appFolders":  [
+                       "Elster\\app",
+                       "HybridBCLast_DE\\app"
+                   ],
+    "testFolders":  [
+                        "Elster\\test",
+                        "HybridBCLast_DE\\test"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//de/latest",
+    "enablePerTenantExtensionCop":  false,
+    "appDependencyProbingPaths":  [
+                                      {
+                                          "repo":  "https://github.com/freddydk/global"
+                                      }
+                                  ]
+}

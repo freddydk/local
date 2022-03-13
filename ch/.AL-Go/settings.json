@@ -1,0 +1,18 @@
+{
+    "country":  "ch",
+    "appFolders":  [
+                       "HybridBCLast_CH\\app",
+                       "SwissQRBill\\app"
+                   ],
+    "testFolders":  [
+                        "HybridBCLast_CH\\test",
+                        "SwissQRBill\\test"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//ch/latest",
+    "enablePerTenantExtensionCop":  false,
+    "appDependencyProbingPaths":  [
+                                      {
+                                          "repo":  "https://github.com/freddydk/global"
+                                      }
+                                  ]
+}

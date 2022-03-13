@@ -1,0 +1,16 @@
+{
+    "country":  "nl",
+    "appFolders":  [
+                       "NLDigitalTaxDeclaration\\app"
+                   ],
+    "testFolders":  [
+                        "NLDigitalTaxDeclaration\\test"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//nl/latest",
+    "enablePerTenantExtensionCop":  false,
+    "appDependencyProbingPaths":  [
+                                      {
+                                          "repo":  "https://github.com/freddydk/global"
+                                      }
+                                  ]
+}

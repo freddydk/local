@@ -1,0 +1,16 @@
+{
+    "country":  "it",
+    "appFolders":  [
+                       "HybridBCLast_IT\\app"
+                   ],
+    "testFolders":  [
+                        "HybridBCLast_IT\\test"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//it/latest",
+    "enablePerTenantExtensionCop":  false,
+    "appDependencyProbingPaths":  [
+                                      {
+                                          "repo":  "https://github.com/freddydk/global"
+                                      }
+                                  ]
+}
