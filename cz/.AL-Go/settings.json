@@ -28,5 +28,8 @@
                                       {
                                           "repo":  "https://github.com/freddydk/global"
                                       }
-                                  ]
+                                  ],
+    "installTestApps":  [
+                            "(:C:\\Applications\\BaseApp\\Test\\Microsoft_Tests-SMB.app)"
+                        ]
 }
