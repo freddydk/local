@@ -1,0 +1,1030 @@
+﻿[
+    {
+        "Method":  "GeneralJournalWithTDSOnCustomer",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "BankReceiptVoucherWithTDSOnCustomerAndWithThresholdOverlook",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "BankReceiptVoucherWithTDSOnCustomer",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "SalesOrderWithTDSOnCustomer",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "CashReceiptVoucherWithTDSOnCustomer",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "SalesInvoiceWithTDSOnCustomer",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "SalesCrMemoWithTDSOnCustomer",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "SalesReturnOrderWithTDSOnCustomer",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "SalesOrderWithTDSOnCustomerToCheckTDSCertificateReceivable",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "SalesInvoiceWithTDSOnCustomerToCheckTDSCertificateReceivable",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "SalesOrderWithTDSCertReceWithUpdateTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "SalesOrderWithoutTDSCertReceWithUpdateTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "GeneralJournalWithTDSOnCustomerAndWithConcessionalCode",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "BankReceiptVoucherWithTDSOnCustomerAndWithConcessionalCode",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "CashReceiptVoucherWithTDSOnCustomerAndWithConcessionalCode",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "JournalVoucherWithTDSOnCustomer",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "SalesOrderWithTDSCertReceWithAssignTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "BankReceiptVoucherWithTDSCertReceiAndUpdateTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "BankReceiptVoucherWithoutTDSCertReceiAndUpdateTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "CashReceiptVoucherWithTDSCertReceiAndUpdateTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "CashReceiptVoucherWithoutTDSCertReceiAndUpdateTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "BankReceiptVoucherWithTDSCertReceiAndAssignTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "BankReceiptVoucherWithoutTDSCertReceiAndAssignTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "CashReceiptVoucherWithTDSCertReceiAndAssignTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "CashReceiptVoucherWithoutTDSCertReceiAndAssignTDSCertificate",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "CreateBankReceiptVoucherWithTDSReceivable",
+        "CodeunitName":  "TDS On Customer Tests"
+    },
+    {
+        "Method":  "CheckTDSCertificateReceivableInGeneralJournal",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CreateCashReceiptVoucherWithTDSReceivable",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckRectifyTDSCertificateWhenTDSCertificateSetFalse",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckIfSystemIsDeletingEntryInUpdateWindow",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckIfSystemIsGeneratingEntryInUpdateTDSCertficateWindow",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "AssingCertificateIfCheckMarkRemovedFromUpdateDetials",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckTDSCertificateReceivableInCustomerLedger",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "IncaseofTrueCheckVisibleinAssignPageofCertificate",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "IncaseofFalseCheckVisibleinAssignPageofCertificate",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "IncaseofFalseAssignCertificateTrue",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckInCaseOfCertificateReceivableIsTrue",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckInCaseOfCertificateReceivableISFlase",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckInCaseOfCertificateReceivableISTrueInCashReceiptJournal",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckInCaseOfCertificateReceivableISTrueInJournalVoucher",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckInCaseOfCertificateReceivableIsFalseInJournalVoucher",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckInCaseOfCertificateReceivableIsTrueInJournalVoucherAssignPage",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckInCaseOfCertificateReceivableIsFalseInJournalVoucherAssignPage",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckInCaseOfCertificateReceivableIsFalseInCashReceiptJournal",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckInAssingTDSCaseOfCertificateReceivableIsTrueInCashReceiptJournal",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "CheckInAssingTDSCaseOfCertificateReceivableIsFalseInCashReceiptJournal",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "SalesOrderWithTDSCertReceFlaseWithAssignTDSCertificate",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "SalesInvoiceWithoutTDSCertReceWithUpdateTDSCertificate",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "SalesInvoiceWithoutTDSCertReceWithAssignTDSCertificate",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "SalesInvoiceWithTDSCertReceWithUpdateTDSCertificate",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "SalesInvoiceWithTDSCertReceWithAssignTDSCertificate",
+        "CodeunitName":  "TDS On Sales Tests"
+    },
+    {
+        "Method":  "PostFromTDSPaymentInJournalWithPANWithoutConRegF",
+        "CodeunitName":  "TDS RegF On Journals"
+    },
+    {
+        "Method":  "PostFromTDSPaymentInJournalWithoutPANWithoutConRegF",
+        "CodeunitName":  "TDS RegF On Journals"
+    },
+    {
+        "Method":  "PostFromTDSPaymentInJournalWithPANWithConRegF",
+        "CodeunitName":  "TDS RegF On Journals"
+    },
+    {
+        "Method":  "PostFromTDSPaymentInJournalWithoutPANWithConRegF",
+        "CodeunitName":  "TDS RegF On Journals"
+    },
+    {
+        "Method":  "PostFromPurchInvwithItemWithoutTANNo",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvwithItemWithoutAccountingPeriod",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFAWithoutAccountingPeriod",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvwithChargeItemWithoutAccountingPeriod",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLAccWithoutAccountingPeriod",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithItemWithPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithItemWithPANWithoutConCodeWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLAccWithPANWithoutConCodeWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFAWithPANWithoutConCodeWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithChargeItemWithPANWithoutConCodeWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLAccWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvofForeignVendorWithGLAccWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvofForeignVendorWithItemWithSurchargeandThresholdOverlook",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLAccIncludingThresholdandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLWithoutThresholdandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithItemWithoutThresholdandandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFAWithoutThresholdandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvwithChargeItemWithoutSurchargeandThresholdOverlook",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLAccWithoutPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLAccWithoutPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLAccWithPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLAccWithoutTANNo",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvwithItemWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFAWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFAWithoutPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFAWithoutPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFAWithPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFAWithoutTANNo",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvwithItemWithoutPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvwithChargeItemWithoutPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvwithChargeItemWithPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvwithChargeItemWithoutTANNo",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithTDSApplicableOnSelectedLines",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "VerifyPurchaseInvoiceStatisticsWithItem",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "VerifyPurchaseInvoiceStatisticsWithGLAccount",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "VerifyPurchaseInvoiceStatisticsWithFixedAsset",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "VerifyPurchaseInvoiceStatisticsWithChargeItem",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLAccWithMultipleline",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithItemWithMultipleline",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithChargeItemWithMultipleline",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFAWithMultipleline",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromForeignVendorPurchInvwithItemWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromForeignVendorPurchInvWithFAWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromForeignVendorPurchInvwithChargeItemWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLandLineDiscount",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithItemandLineDiscount",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithGLandInvoiceDiscount",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithItemAndInvoiceDiscount",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFAAndInvoiceDiscount",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchInvWithChargeItemAndInvoiceDiscount",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "CheckTDSSectionOnPurchaseInvoice",
+        "CodeunitName":  "TDS On Purchase Invoice"
+    },
+    {
+        "Method":  "PostFromPurchOrdwithItemWithoutTANNo",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdwithItemWithoutAccountingPeriod",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithItemWithPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithItemWithPANWithoutConCodeWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLAccWithPANWithoutConCodeWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithFAWithPANWithoutConCodeWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithChargeItemWithPANWithoutConCodeWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithItemWithPANWithConCodeWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLAccWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdofForeignVendorWithGLAccWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdofForeignVendorWithItemIncludingSurchargeandThresholdOverlook",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLAccWithoutThresholdandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLAccWithoutPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLAccWithoutPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLAccWithPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLAccWithoutTANNo",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLAccWithoutAccountingPeriod",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdwithItemWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithFAWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithFAithoutPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithFAWithoutPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithFAWithPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithFAWithoutTANNo",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithFAWithoutAccountingPeriod",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdwithItemWithoutPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdwithChargeItemWithoutPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdwithChargeItemWithPANWithConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdwithChargeItemWithoutTANNo",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdwithChargeItemWithoutAccountingPeriod",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "VerifyPurchaseOrderStatisticsWithItem",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "VerifyPurchaseOrderStatisticsWithGLAccount",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "VerifyPurchaseOrderStatisticsWithFixedAsset",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "VerifyPurchaseOrderStatisticsWithChargeItem",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromForeignVendorPurchOrdwithItemWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromForeignVendorPurchOrdWithFAWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromForeignVendorPurchOrdWithGLAccWithPANWithoutConCode",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithTDSApplicableOnSelectedLines",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLAccWithMultipleline",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithItemWithMultipleline",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithChargeItemWithMultipleline",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithFAWithMultipleline",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLandLineDiscount",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLandInvoiceDiscount",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithItemAndInvoiceDiscount",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithFAAndInvoiceDiscount",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithChargeItemAndInvoiceDiscount",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithGLWithoutThresholdandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithItemWithoutThresholdandandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithFAWithoutThresholdandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchOrdwithChargeItemWithoutSurchargeandThresholdOverlook",
+        "CodeunitName":  "TDS On Purchase Order"
+    },
+    {
+        "Method":  "PostFromPurchInvwithResourceWithoutTANNo",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvwithResourceWithoutAccountingPeriod",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrderWithResourceWithPANWithConCode",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrderWithResourceWithoutPANWithConCode",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithResourceWithoutPANWithConCode",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithResourceandLineDiscount",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithResourceandLineDiscount",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithResourceWithPANWithConCode",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithResourceInvDiscount",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithResourceInvDiscount",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithResourceWithMultipleNOD",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithResourceWithMultipleNOD",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithResourceWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithResourceWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithResourceWithoutThresholdandSurcharge",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithResourceWithoutThresholdandSurcharge",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdofForeignVendorWithResWithPANWithoutConCode",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvofForeignVendorWithResWithPANWithoutConCode",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvofForeignVendorWithResWithoutSurchargeOverlook",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdofForeignVendorWithResWithoutSurchargeOverlook",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithResWithoutPANWithoutConCodeFCY",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithResWithoutPANWithoutConCodeFCY",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithResourceWithThresholdLimit",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithResourceWithThresholdLimit",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithResourceWithRoundOff",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithResourceWithRoundOff",
+        "CodeunitName":  "TDS Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvWithItemWithPANWithoutConCodeRegF",
+        "CodeunitName":  "TDS RegF On Purchases"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithItemWithPANWithoutConCodeRegF",
+        "CodeunitName":  "TDS RegF On Purchases"
+    },
+    {
+        "Method":  "PostFromPurchInvWithItemWithoutPANWithoutConCodeRegF",
+        "CodeunitName":  "TDS RegF On Purchases"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithItemWithoutPANWithoutConCodeRegF",
+        "CodeunitName":  "TDS RegF On Purchases"
+    },
+    {
+        "Method":  "PostFromPurchInvWithItemWithoutPANWithConCodeRegF",
+        "CodeunitName":  "TDS RegF On Purchases"
+    },
+    {
+        "Method":  "PostFromPurchInvWithItemWithPANWithConCodeRegF",
+        "CodeunitName":  "TDS RegF On Purchases"
+    },
+    {
+        "Method":  "CheckTDSAmountWhenPurhaseAmtLessThanThresholdAmt",
+        "CodeunitName":  "TDS RegF On Purchases"
+    },
+    {
+        "Method":  "PostFromGenJournalandVerifyTDSEntryandGLEntryReversal",
+        "CodeunitName":  "TDS Adjustment Jnl Automation"
+    },
+    {
+        "Method":  "PostPayTDSEntriesUsingPaymentJournalAlreadyDeducted",
+        "CodeunitName":  "TDS Adjustment Jnl Automation"
+    },
+    {
+        "Method":  "PostPayTDSEntriesUsingPaymentJournalAlreadyPaid",
+        "CodeunitName":  "TDS Adjustment Jnl Automation"
+    },
+    {
+        "Method":  "PostPayTDSEntriesInGenJournalAlreadyDeducted",
+        "CodeunitName":  "TDS Adjustment Jnl Automation"
+    },
+    {
+        "Method":  "PostTDSAdjustmentForTDSEntriesAlreadyDeductedandPaid",
+        "CodeunitName":  "TDS Adjustment Jnl Automation"
+    },
+    {
+        "Method":  "PayTDSEntriesUsingBankPaymentVoucher",
+        "CodeunitName":  "TDS Adjustment Jnl Automation"
+    },
+    {
+        "Method":  "PayTDSEntriesUsingCashPaymentVoucher",
+        "CodeunitName":  "TDS Adjustment Jnl Automation"
+    },
+    {
+        "Method":  "PostTDSEntriesAndAdjustment",
+        "CodeunitName":  "TDS Adjustment Jnl Automation"
+    },
+    {
+        "Method":  "PostTDSEntriesAndAdjustmentWithTDSSurchargeIsZero",
+        "CodeunitName":  "TDS Adjustment Jnl Automation"
+    },
+    {
+        "Method":  "PostFromTDSPaymentinJournal",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithPANWithoutConcessional",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithPANWithConcessional",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithoutPANWithoutConcessional",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithoutPANWithConcessional",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithPANWithoutConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithPANWithConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithoutPANWithoutConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithoutPANWithConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithPANWithoutConcessionalWithMultiLine",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "CreateTDSInvoiceinJournalWithThresholdOverlookandSurchargeOverlookSelected",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "CreateTDSInvoiceinJournalWithoutThresholdOverlookSelected",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceUsingGeneralJournalOfForeignVendor",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceInGenJournalOfForeignVendorWithThresholdandSurchargeSelected",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceInGenJournalOfForeignVendorWithoutThresholdandSurcharge",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromGeneralJornalWithoutAccountingPeriod",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostFromGeneralJournalWithoutTANNo",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "CheckTDSSectionOnGeneralJouranlLine",
+        "CodeunitName":  "TDS On General Jnl"
+    },
+    {
+        "Method":  "PostTDSProvisionalEntryGenJournal",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "CheckTDSEntryApplyProvisionalEntryGenJournal",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentinJournals",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentinJournalsWithPANWithoutConcessional",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentinJournalsWithPANWithConcessional",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentinJournalsWithoutPANWithoutConcessional",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentinJournalsWithoutPANWithConcessional",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentinPaymentJournalWithPANWithoutConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentinPaymentJournalWithPANWithConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentinPaymentJournalWithoutPANWithoutConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentinPaymentJournalWithoutPANWithConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinPaymentJournalWithPANWithoutConcessionalWithMultiLine",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithThresholdOverlookandSurchargeOverlookSelected",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalWithoutThresholdOverlookandSurchargeOverlookSelected",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentUsingPaymentJournalOfForeignVendorWithThresholdandSurcharge",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromTDSPaymentUsingPaymentJournalOfForeignVendorWithoutThresholdandSurcharge",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromPaymentJournalWithoutTANNo",
+        "CodeunitName":  "TDS On Payment Jnl"
+    },
+    {
+        "Method":  "PostFromPurchJornalWithoutAccountingPeriod",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromPurchJournalWithoutTANNo",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalsWithPANWithoutConcessional",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalsWithPANWithConcessional",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalsWithoutPANWithoutConcessional",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinJournalsWithoutPANWithConcessional",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinPurchJournalWithPANWithoutConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinPurchJournalWithPANWithConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinPurchJournalWithoutPANWithoutConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinPurchJournalWithoutPANWithConcessionalWithDifferentEffectiveDates",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinPaymentJournalWithPANWithoutConcessionalWithMultiLine",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinPurchJournalWithThresholdOverlookandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceinPurchJournalWithoutThresholdOverlookandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceUsingPurchJournalOfForeignVendor",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromTDSInvoiceUsingPurchJournalOfForeignVendorWithThresholdandSurchargeOverlook",
+        "CodeunitName":  "TDS On Purchase Jnl"
+    },
+    {
+        "Method":  "PostFromPurchInvWithFullAdvancePayemnt",
+        "CodeunitName":  "TDS On Application"
+    },
+    {
+        "Method":  "PostFromPurchInvWithPartialAdvancePayment",
+        "CodeunitName":  "TDS On Application"
+    },
+    {
+        "Method":  "PostFromPurchInvWithExceedAdvancePaymentt",
+        "CodeunitName":  "TDS On Application"
+    },
+    {
+        "Method":  "VerifyForeignVendorValidationOnGeneralJournal",
+        "CodeunitName":  "TDS Validations Tests"
+    },
+    {
+        "Method":  "PostFromGeneralJournalWithTDSSectionLookUp",
+        "CodeunitName":  "TDS Validations Tests"
+    },
+    {
+        "Method":  "PostFromGeneralJournalWithTDSCustomerSectionLookup",
+        "CodeunitName":  "TDS Validations Tests"
+    },
+    {
+        "Method":  "PostFromGeneralJournalWithTDSOnCustomerSection",
+        "CodeunitName":  "TDS Validations Tests"
+    },
+    {
+        "Method":  "VerifyIncludeGSTInTDSBaseValidationOnGeneralJnlForTDS",
+        "CodeunitName":  "TDS Validations Tests"
+    },
+    {
+        "Method":  "VerifyLocationCodeValidationOnGeneralJnlForTDS",
+        "CodeunitName":  "TDS Validations Tests"
+    }
+]

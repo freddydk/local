@@ -1,0 +1,146 @@
+﻿[
+    {
+        "Method":  "GLEntriesExistsIncomeStatementAccount",
+        "CodeunitName":  "SAF-T Unit Tests"
+    },
+    {
+        "Method":  "GLEntriesDoesNotExistIncomeStatementAccount",
+        "CodeunitName":  "SAF-T Unit Tests"
+    },
+    {
+        "Method":  "GLEntriesExistsBalanceSheetAccount",
+        "CodeunitName":  "SAF-T Unit Tests"
+    },
+    {
+        "Method":  "GLEntriesDoesNotExistBalanceSheetAccount",
+        "CodeunitName":  "SAF-T Unit Tests"
+    },
+    {
+        "Method":  "GLEntriesExistsBalanceSheetAccountIncludeIncomingBalance",
+        "CodeunitName":  "SAF-T Unit Tests"
+    },
+    {
+        "Method":  "SAFTExportLineCountWhenSplitByDate",
+        "CodeunitName":  "SAF-T Unit Tests"
+    },
+    {
+        "Method":  "GLEntriesExistanceForAccountThatDoesNotExist",
+        "CodeunitName":  "SAF-T Unit Tests"
+    },
+    {
+        "Method":  "MasterFile",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "OpeningDebitBalanceOnMasterData",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "OpeningCreditBalanceOnMasterData",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "ClosingDebitBalanceOnMasterData",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "ClosingCreditBalanceOnMasterData",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "GeneralLedgerEntryFile",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "CustomerIDExportsOncePerLine",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "SupplierIDExportsOncePerLine",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "GLAccountExportWithIncomeStatementMappingType",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "GLEntryVATEntryLink",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "LastModifiedDateTimeExportsToSystemEntryDateXMLNode",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "PostingDateExportsToSystemEntryDateXMLNode",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "CustomerIDWithZeroBalanceInvoiceAndPayment",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "VendorIDWithZeroBalanceInvoiceAndPayment",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "CustomerIDWithZeroBalanceInvoiceAndCreditMemo",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "VendorIDWithZeroBalanceInvoiceAndCreditMemo",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "DefaultPostCodeUsesWhenCustomerOrVendorHasNoPostCode",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "CurrencyInformationExportsWhenExportCurrencyOptionEnabled",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "NoCurrencyInformationExportsWhenExportCurrencyOptionDisabled",
+        "CodeunitName":  "SAF-T XML Tests"
+    },
+    {
+        "Method":  "ErrorLogShownOnFailedSAFTExportRun",
+        "CodeunitName":  "SAF-T Check Tests"
+    },
+    {
+        "Method":  "BackgroundTasksCreatesAccordingToMaxNoOfJobsOfExportSetup",
+        "CodeunitName":  "SAF-T Job Queue Tests"
+    },
+    {
+        "Method":  "PerformanceOfSAFTExportRunOf12SeparateFilesPerEachMonth",
+        "CodeunitName":  "SAF-T Performance Tests"
+    },
+    {
+        "Method":  "GLEntryOnlyExportsWithDimensionsMarkedForExport",
+        "CodeunitName":  "SAF-T Dimension Tests"
+    },
+    {
+        "Method":  "ExportToFolderWithNoZipEnabled",
+        "CodeunitName":  "SAF-T Export Tests"
+    },
+    {
+        "Method":  "ExportToFolderWithNoZipDisabled",
+        "CodeunitName":  "SAF-T Export Tests"
+    },
+    {
+        "Method":  "ExportToFolderMultipleZipFiles",
+        "CodeunitName":  "SAF-T Export Tests"
+    },
+    {
+        "Method":  "SaveSingleZipFile",
+        "CodeunitName":  "SAF-T Export Tests"
+    },
+    {
+        "Method":  "SaveMultipleZipFiles",
+        "CodeunitName":  "SAF-T Export Tests"
+    },
+    {
+        "Method":  "DatesAreEditableInSAFTExport",
+        "CodeunitName":  "SAF-T Export Tests"
+    }
+]

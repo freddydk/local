@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Method":  "TestPurchaseInvReportForInterstateTrans",
+        "CodeunitName":  "GST Purchase Report Tests"
+    },
+    {
+        "Method":  "TestPurchaseInvReportForIntraStateTrans",
+        "CodeunitName":  "GST Purchase Report Tests"
+    },
+    {
+        "Method":  "TestPurchaseOrderReport",
+        "CodeunitName":  "GST Purchase Report Tests"
+    },
+    {
+        "Method":  "TestPurchaseReturnOrderReport",
+        "CodeunitName":  "GST Purchase Report Tests"
+    },
+    {
+        "Method":  "TestPostedSalesCrMemoReportForInterStateTrans",
+        "CodeunitName":  "GST Sales Return Report Tests"
+    },
+    {
+        "Method":  "TestPostedSalesCrMemoReportForIntraStateTrans",
+        "CodeunitName":  "GST Sales Return Report Tests"
+    },
+    {
+        "Method":  "TestSalesInvoiceReportForInterStateTrans",
+        "CodeunitName":  "GST Sales Report Tests"
+    },
+    {
+        "Method":  "TestSalesInvoiceReportForIntraStateTrans",
+        "CodeunitName":  "GST Sales Report Tests"
+    },
+    {
+        "Method":  "TestSalesOrderReportForInterStateTrans",
+        "CodeunitName":  "GST Sales Report Tests"
+    },
+    {
+        "Method":  "TestReturnOrderReportForInterStateTrans",
+        "CodeunitName":  "GST Sales Report Tests"
+    },
+    {
+        "Method":  "TestPurchaseCreditMemoReportForInterStateTrans",
+        "CodeunitName":  "GST Purch Return Report Tests"
+    },
+    {
+        "Method":  "TestPurchaseCreditMemoReportForIntraStateTrans",
+        "CodeunitName":  "GST Purch Return Report Tests"
+    }
+]

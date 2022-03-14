@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Method":  "TestGetAddressIOListFromPostcode",
+        "CodeunitName":  "Test UK Postcode GetAddress.io"
+    },
+    {
+        "Method":  "TestGetAddressIOListFromPostcodeAndDeliveryPoint",
+        "CodeunitName":  "Test UK Postcode GetAddress.io"
+    },
+    {
+        "Method":  "TestGetAddressIOListFromPostcodeNotExists",
+        "CodeunitName":  "Test UK Postcode GetAddress.io"
+    },
+    {
+        "Method":  "TestGetAddressIOListFromInvalidPostcode",
+        "CodeunitName":  "Test UK Postcode GetAddress.io"
+    },
+    {
+        "Method":  "TestGetAddressIOListFromPostcodeServiceNotAvailable",
+        "CodeunitName":  "Test UK Postcode GetAddress.io"
+    },
+    {
+        "Method":  "TestGetAddressIOListFromPostcodeAuthProblem",
+        "CodeunitName":  "Test UK Postcode GetAddress.io"
+    }
+]

@@ -1,0 +1,162 @@
+﻿[
+    {
+        "Method":  "GetBillingInformation_DisabledAll",
+        "CodeunitName":  "Swiss QR-Bill Test BillingInfo"
+    },
+    {
+        "Method":  "GetBillingInformation_DocumentNo",
+        "CodeunitName":  "Swiss QR-Bill Test BillingInfo"
+    },
+    {
+        "Method":  "GetBillingInformation_DocumentDate",
+        "CodeunitName":  "Swiss QR-Bill Test BillingInfo"
+    },
+    {
+        "Method":  "GetBillingInformation_VATNumber",
+        "CodeunitName":  "Swiss QR-Bill Test BillingInfo"
+    },
+    {
+        "Method":  "GetBillingInformation_VATDate",
+        "CodeunitName":  "Swiss QR-Bill Test BillingInfo"
+    },
+    {
+        "Method":  "GetBillingInformation_VATDetails_10",
+        "CodeunitName":  "Swiss QR-Bill Test BillingInfo"
+    },
+    {
+        "Method":  "GetBillingInformation_PaymentTerms",
+        "CodeunitName":  "Swiss QR-Bill Test BillingInfo"
+    },
+    {
+        "Method":  "GetBillingInformation_PaymentTermsWithZeroPct",
+        "CodeunitName":  "Swiss QR-Bill Test BillingInfo"
+    },
+    {
+        "Method":  "GetBillingInformation_All",
+        "CodeunitName":  "Swiss QR-Bill Test BillingInfo"
+    },
+    {
+        "Method":  "ReportsPageDrillDown_ServiceInvoice",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_Disabled",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_CHF_QRIBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedServiceInvoice_CHF_QRIBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_EUR_QRIBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_CHF_IBAN_PMTMTD_QRIBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_EUR_QRIBAN_PMTMTD_IBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_UnstrMsg",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_BIllInfoAndUnstrMsg",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_AltProc1",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_AltProc2",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_AltProcBoth",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_BIllInfoUnstrMsgAndBothAltProc",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_USD",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_AlreadyPrinted_QRRef",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_AlreadyPrinted_CRRef",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_BlankedBankAccountQRIBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_BlankedBankAccountIBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_BlankedCompanyQRIBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_BlankedCompanyIBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_BankAccountQRIBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "Print_PostedSalesInvoice_BankAccountIBAN",
+        "CodeunitName":  "Swiss QR-Bill Test Print"
+    },
+    {
+        "Method":  "ScanFromPageList_IBANMatch_CreateJournal",
+        "CodeunitName":  "Swiss QR-Bill Test IncomingDoc"
+    },
+    {
+        "Method":  "Journal_UI_NoQRBill",
+        "CodeunitName":  "Swiss QR-Bill Test Purchases"
+    },
+    {
+        "Method":  "Journal_UI_QRBill",
+        "CodeunitName":  "Swiss QR-Bill Test Purchases"
+    },
+    {
+        "Method":  "Invoice_Scan_PmtRefExists_VLE_Deny",
+        "CodeunitName":  "Swiss QR-Bill Test Purchases"
+    },
+    {
+        "Method":  "Invoice_Scan_PmtRefExists_VLE_Accept",
+        "CodeunitName":  "Swiss QR-Bill Test Purchases"
+    },
+    {
+        "Method":  "Invoice_Scan_PmtRefExists_Journal_Deny",
+        "CodeunitName":  "Swiss QR-Bill Test Purchases"
+    },
+    {
+        "Method":  "Invoice_Scan_PmtRefExists_Journal_Accept",
+        "CodeunitName":  "Swiss QR-Bill Test Purchases"
+    },
+    {
+        "Method":  "Journal_Scan_Success_Stop",
+        "CodeunitName":  "Swiss QR-Bill Test Purchases"
+    },
+    {
+        "Method":  "Journal_Scan_Success_Next",
+        "CodeunitName":  "Swiss QR-Bill Test Purchases"
+    }
+]

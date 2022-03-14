@@ -1,0 +1,62 @@
+﻿[
+    {
+        "Method":  "CreateXMLFile_KZ37_Kz50",
+        "CodeunitName":  "Elster Report UT"
+    },
+    {
+        "Method":  "CreateXMLFile_KZ21Order",
+        "CodeunitName":  "Elster Report UT"
+    },
+    {
+        "Method":  "ShowAmountsFromTheCreatedXMLFile",
+        "CodeunitName":  "Elster Report UT"
+    },
+    {
+        "Method":  "CalcTaxFiguresRowNoContinuedSalesVATAdvNotif",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "CalcTaxFiguresRowNoTotalLineSalesVATAdvNotif",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "CalcTaxFiguresRowNoTotalLineTwoSalesVATAdvNotif",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "CalcTaxFiguresRowNoTotalLineThreeSalesVATAdvNotif",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "CalcTaxFigures_Kz37",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "CalcTaxFigures_Kz50",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "CalcTaxFiguresAmtTypeAmountSalesVATAdvNotif",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "CalcTaxFiguresAmtTypeBaseSalesVATAdvNotif",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "CalcTaxFiguresAmtTypeUnrealizedAmtSalesVATAdvNotif",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "CalcTaxFiguresAmtTypeUnrealizedBaseSalesVATAdvNotif",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "CalcTaxFiguresTypeAccountTotalingSalesVATAdvNotif",
+        "CodeunitName":  "Elster Tables UT"
+    },
+    {
+        "Method":  "ErrorOnCreateXMLFileOnSalesVATAdvNotificationCard",
+        "CodeunitName":  "Elster ERM Batch Reports"
+    }
+]

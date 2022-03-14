@@ -1,0 +1,3326 @@
+﻿[
+    {
+        "Method":  "PostFromPurchOrderToRegisterdVendorWithResourceITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchQuoteToUnRegVendorWithResourceITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "CreateGSTPurchQuoteToRegisterdVendorWithResourceITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegisterdVendorWithResourceITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegisterdVendorWithResWithoutITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdToRegisterdVendorWithResWithITCRevChargeInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegisterdVendorWithResWithoutITCRevChargeInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToUnRegVendorWithResWithITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToUnRegVendorWithResWithoutITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToCompositeVendorWithResWithITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToCompositeVendorWithResWithoutITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdToCompositeVendorWithResWithITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdToImportVendorWithResWithoutITC",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchQuoteToImportVendorWithResWithITC",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToImportVendorWithResWithITC",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToImportVendorWithResWithoutITCLineDisce",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToSEZVendorWithResWithITC",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdToSEZVendorWithResWithoutITC",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToSEZVendorWithResWithoutITCLineDisc",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdToSEZVendorWithResWithITCInvDisc",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "CreateGSTPurchQuoteToSEZVendorWithResITCInterState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdToUnRegVendorWithResWithITCInvDisc",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdToImportVendorWithResWithITCInvDisc",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdToCompositeVendorWithResWithITCInvDisc",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchQuoteToRegVendorWithoutITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchQuoteToUnRegVendorWithoutITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegisterdVendorWithResourceITCIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegisterdVendorWithResITCIntraStateInvDisc",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegVendorWithResITCIntraStateRevCharge",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdToRegVendorWithResITCIntraStateRevCharge",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrderToUnRegVendorWithoutITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToUnRegVendorWithoutITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToUnRegVendorWithITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrderToCompositeVendorWithITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToCompositeVendorWithITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchOrdToCompositeVendorWithoutITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToCompositeVendorWithoutITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToSEZVendorWithITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToSEZVendorWithoutITCResIntraState",
+        "CodeunitName":  "GST Purchase Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToRegVendorWithResInterStateITC",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToRegVendorWithResInterStateITCInvDisc",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToUnRegVendorWithResInterStateITCInvDisc",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToSEZVendorWithResInterStateITCInvDisc",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToImportVendorWithResInterStateITCInvDisc",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToCompositeVendorWithResInterStateITCInvDisc",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTCreditMemoToRegVendorWithResInterStateWithoutITC",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTCreditMemoToRegVendorWithResWithoutITCRevCharge",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTCreditMemoToUnRegVendorWithResWithoutITCInterState",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTCreditMemoToCompositeVendorWithResWithoutITCInterState",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTCreditMemoToImportVendorWithResWithoutITCInterState",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTCreditMemoToSEZVendorWithResWithoutITCLineDisc",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToRegVendorWithResIntraStateWithoutITC",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToRegVendorWithResIntraStateITCInvDisc",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToRegVendorWithResIntraStateWithITCRevChrge",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToRegVendorWithResIntraStateWithoutITCRevChrge",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTReturnOrderToCompositeVendorWithResIntraStateWithITC",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostGSTCreditMemoToCompositeVendorWithResIntraStateWithITC",
+        "CodeunitName":  "GST Purch Return Resource"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegVendorWithRCMChargeItemITCIntrState",
+        "CodeunitName":  "GST Purch RCM Charge Item"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegVendorWithRCMChargeItemNonITCIntraState",
+        "CodeunitName":  "GST Purch RCM Charge Item"
+    },
+    {
+        "Method":  "PostFromPurchOrdToRegVendorWithRCMChargeItemITCInterState",
+        "CodeunitName":  "GST Purch RCM Charge Item"
+    },
+    {
+        "Method":  "PostFromPurchOrdToRegVendorWithRCMChargeItemNonITCInterState",
+        "CodeunitName":  "GST Purch RCM Charge Item"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegVendorWithRCMChargeItemNonITCInterState",
+        "CodeunitName":  "GST Purch RCM Charge Item"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegVendorWithRCMChargeItemITCInterState",
+        "CodeunitName":  "GST Purch RCM Charge Item"
+    },
+    {
+        "Method":  "PostFromPurchOrderImportVendWithITCForGoodsThreshold",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchOrderImportVendWithNonITCForGoodsThreshold",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchQuoteImportVendWithITCForGoodsCessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchInvImportVendWithNonITCForGoodsCess",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithITCImportedGoodsCessOrUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchInvWithNonITCImportedGoodsCessOrUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithITCImportedGoodsCessPlusUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchInvWithNonITCImportedGoodsCessPlusUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithITCImportedGoodsCessUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchInvWithNonITCImportedGoodsCessUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdWithITCImportedGoodsCessThreshold",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoWithNonITCImportedGoodsThreshold",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdWithITCImportedGoodsCessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoWithNonITCImportedGoodsCessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdWithITCImportedGoodsCessOrUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoWithNonITCImportedGoodsCessOrUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdWithITCImportedGoodsCessPlusUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoWithNonITCImportedGoodsCessPlusUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdWithITCImportedGoodsCessUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoWithNonITCImportedGoodsCessUFactor",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithITCImportedServicesCessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithNonITCImportedServicesCessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdWithITCImportedServicesCessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoWithNonITCImportedServicesCessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchInvWithITCImportedFACessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchInvWithNonITCImportedFACessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdWithITCImportedFACessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoWithNonITCImportedFACessPercent",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchInvWithITCImportedServicesCessThreshold",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchInvWithNonITCImportedServicesCessThreshold",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrdRegVendWithNonITCItemIntraState",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvRegVendWithNonITCItemIntraState",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrdUnregVendWithNonITCItemInterState",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvUnregVendWithNonITCItemInterState",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrdSEZVendWithNonITCItemInterState",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvSEZVendWithNonITCItemInterState",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoSEZVendorWithNonITCGoodsAndChItem",
+        "CodeunitName":  "Cess On Purchase"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvServicesForRegVendorWithAdvPayment",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvServicesForRegVendorWithNormalPayment",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvServicesForImportVendorWithAdvPayment",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvServicesForImportVendorWithNormalPayment",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvServicesForRegVendorWithNormalPayment",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvServicesForRegVendorWithAdvPayment",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvServicesForRegVendorWithUnApplication",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvServicesForRegVendorWithUnApplicationAdvPayment",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvServicesForRegVendorWithOfflineApplication",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvServicesForRegVendorWithOfflineApplicationAdvPayment",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvServicesForRegVendorWithAdvPaymentAndNonITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvServicesForRegVendorWithAdvPaymentAndNonITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostGSTCreditReversalOfPurchInvoiceWithITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostGSTCreditReAvailmentOfPurchInvoiceWithITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostGSTCreditAvailmentOfPurchInvoiceWithITCAndRCM",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostGSTCreditRevarsalOfPurchInvoiceWithITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostGSTCreditLiabilityOfRCMPurchInvoiceWithGenerate",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostGSTCreditLiabilityOfRCMPurchInvoiceWithReverse",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromGSTPurchCrMemoRegVendWithNonITCItemInterState",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostIntraStateInvDistributionNonITCToNonITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostInterStateInvDistributionNonITCToNonITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostIntraStateInvDistributionITCToITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostInterStateInvDistributionITCToITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostIntraStateCrMemoDistributionITCToITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostInterStateCrMemoDistributionITCToITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostInterStateCrMemoDistributionNonITCToNonITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostIntraStateCrMemoDistributionNonITCToNonITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostDistributionReversalOfCrMemoWithNonITC",
+        "CodeunitName":  "GST On Purchase Tests"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrderCompositeVendorWithITCForServiceIntraState",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "CreatePurchQuoteExemptedServicesForCompositeWithAvailmentIntraSate",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToCompositeVendWithGoodsIntraStateAvailment",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToCompositeVendWithServiceIntraStateAvailment",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToCompositeVendWithServiceIntraStateAvailment",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToCompositeVendWithServiceIntraStateAvailmentGetPosted",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvCompositeVendorWithITCForGoodsIntraState",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToCompositeVendWithInterStateNonITCFA",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToCompositeVendWithInterStateNonITCFA",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToCompositeVendWithIntraStateITCFA",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToCompositeVendWithIntraStateITCFA",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToCompositeVendWithIntraStateNonITCFA",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrdCompositeVendorWithITCForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvCompositeVendorWithITCForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrdCompositeVendorWithoutITCForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvCompositeVendorWithoutITCForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvCompositeVendorWitITCWithLineDiscountForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrdCompositeVendorWithITCWithLineDiscountForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrdCompositeVendorWithoutITCWithLineDiscountForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvCompositeVendorWithoutITCWithLineDiscountForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostInterStateGSTPurchaseInvoiceCompositeVendorWithITCWithDiscountForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrdCompositeVendorWithITCDiscountForGoodsInterState",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostInterStateGSTPurchaseInvoiceCompositeVendorWithoutITCWithDiscountForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchOrdCompositeVendorWithoutITCDiscountForGoodsInterState",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchOrdCompositeVendorWithITCForGoodsInterState",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostInterStateGSTPurchaseInvoiceCompositeVendorWithITCForFixedAsset",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchOrdCompositeVendorWithoutITCForGoodsInterState",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvCompositeVendorWithoutITCForGoodsInterState",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvCompositeVendorWithITCForServiceInterState",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "CreatePurchOrdFromQuoteForCompositeWithAvailmentIntraSate",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "PostFromPurchaseOrderForCompostiteWithAvailmentIntraSate",
+        "CodeunitName":  "GST Purchase Composite"
+    },
+    {
+        "Method":  "CreatePurchQuoteForImportVendWithITCGoods",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchOrdImportVendWithITCServices",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchOrdImportVendWithNonITCServices",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToImportVendWithITCSGoods",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToImportVendWithNonITCSGoodsCopyDoc",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToImportVendWithNonITCSGoods",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToImportVendWithNonITCSGoodsGetReverse",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToImportVendWithITCServicesGetReverse",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToImportVendWithNonITCSServicesGetReverse",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToImportAssoEntVendWithITCServicesGetReverse",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithImportVendWithITCFA",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchInvWithImportAssoEntVendWithITCServices",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchInvWithImportAssoEntVendWithNonITCServices",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchInvImportofGoodsFromForeignVendorWithITC",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchInvImportofServicesFromForeignVendorWithITC",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchInvImportofGoodsFromForeignVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchInvImportofServicesFromForeignVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchOrdImportofGoodsFromForeignVendorwithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchInvImportofGoodsFromForeignVendorWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchOrdImportofGoodsFromForeignVendorWithoutITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchInvImportofGoodsFromForeignVendorWithoutITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchOrdImportofGoodsFromForeignVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchInvImportofGoodsFromForeignVendorWithoutITCInterState",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchaseServicesQuoteForAssociateVendorWithITCInterState",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchaseGoodsOrderForAssociateVendorWithITCInterState",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchaseServicesQuoteForAssociateVendorWithoutITCInterState",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchaseGoodsQuoteForImportVendorWithITCInterState",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchaseServicesOrderForImportVendorWithITCInterState",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchaseServicesOrderForImportVendorWithoutITCInterState",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "CreatePurchOrdFromQuoteForServiceImportWithITCIntraState",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchOrdForImportVendorWithITCInterSate",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "CreatePurchOrdFromQuoteForImportVendorWithITCIntraSate",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromPurchOrdForServiceImportWithoutITCInterSate",
+        "CodeunitName":  "GST Purchase Import"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrderRegVendWithITCForItemIntraState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchRetOrdRegVendWithNonITCItemInterState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrderRegVendWithNonITCItemInterState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrderRegVendWithITCForServiceInterState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvRegVendWithITCForServiceInterState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvRegVendWithNonITCForServiceInterState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToRegVendWithServiceIntraStateNonAvailmentRCM",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToRegVendWithServiceInterStateAvailmentRCM",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToRegVendWithServiceInterStateAvailmentRCMGetPosted",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToRegVendWithServiceInterStateAvailmentRCMGetPosted",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToRegVendWithServiceInterStateNonAvailmentRCMGetPosted",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrdRegVendWithNonITCForServiceIntraState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvRegVendWithNonITCForServiceIntraState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchOrdRegVendWithNonITCForFAIntraState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvRegVendWithNonITCForFAIntraState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToRegVendWithFAInterStateAvailment",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToRegVendWithFAInterStateAvailment",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToRegVendWithFAInterStateNonAvailment",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToRegVendWithFAInterStateNonAvailment",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToRegVendWithFAIntraStateAvailment",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchOrdToRegVendWithFAIntraStateAvailment",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchInvToRegVendWithFAIntraStateAvailment",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CreatePurchQuoteServicesForRegVendorWithAvailmentIntraSate",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchInvSEZVendorWithoutITCLineDisForFA",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdWithITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvWithITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdWithITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromMultiLineIntrastatePurchOrdWithITCRegVendor",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromMultiLineIntrastatePurchInvWithITCForRegVendor",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromMultiLineInterstatePurchOrdWithITCForRegVendor",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromMultiLineInterstatePurchInvWithITCForRegVendor",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromMultiLineInterstatePurchOrdWithoutITCForRegVendor",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromMultiLineInterstatePurchInvWithoutITCTForRegVendor",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntrastatePurchOrdForRegVendorbyISDWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromMultiLineIntrastatePurchOrdForRegVendorbyISDWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdRegVendorbyISDWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdMultipleLineRegVendorbyISDWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdRegVendorbyISDWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdMultipleLineRegVendorbyISDWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdRegVendorbyISDWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvMultipleLineRegVendorbyISDWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseServicesQuoteWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseServicesOrdereWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseServicesInvoiceWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseQuoteGoodsWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdeGoodsWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseInvoiceGoodsWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchaseOrderWithITCWithMultipleHSNCodeWiseForIntraState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchInvWithITCWithMultipleHSNCodeWiseForIntraState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchaseOrderWithITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvWithITCWithMultipleHSNCodeWise",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdWithoutITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvWithoutITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseServicesQuoteForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseServicesOrderForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseServicesQuoteForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseServicesOrderForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseGoodsQuoteForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseGoodsOrderForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseServicesInvoiceForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseGoodsQuoteForRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseGoodsOrderForRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseGoodsInvoiceForRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CreatePurchaseOrderFromQuoteForGoodsRegisteredWithoutITCIntraState",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseOrderForRegisteredWithoutITCIntraSate",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseInvoiceForRegisteredWithDebitNoteAvailmentIntraSate",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseInvoiceForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvForRegisteredWithSupplementaryAvailment",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdForRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CreatePurchOrdFromQuoteForServiceRegVendorWithoutITCIntraSate",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvForRegVendorWithDebitNoteWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvForServiceRegisteredWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CheckAfterChangePaytoVendorOnPurchaseHeader",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CheckOnPurchaseLineUpdateTypeNumberandQty",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CheckAfterChangeOrderAddressOnPurchaseHeaderDocument",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CheckAfterChangeInvoiceTypeOnHeader",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CheckAfterChangeGSTGroupOnLine",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CheckChangeExemptedOnPurchaseLine",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CheckValidationForCustomDutyAmountandAssessableValueOnPurchaseLine",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CheckInvoiceTypeSupplementaryPurchaseLine",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "CheckAfterChangeLocationCodeAndPOSonPurchaseHeader",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseOrderForFAWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvForFAWithITCWithLineDisc",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdForFAWithLineDisc",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvForFAWithLineDisc",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdForFAWithLineDiscWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvForFAWithLineDiscWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdForFAWithLineDiscWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvForFAWithLineDiscWithoutITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvGoodsForRegVendor",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromIntrastatePurchaseGoodsQuoteForRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseQuoteRegisterdVendorWithoutITCForItem",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseInvoiceRegisterdVendorWithoutITCForItem",
+        "CodeunitName":  "GST Purchase Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvUnRegVendWithNonITCItemInterState",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromGSTPurchCrMemoUnRegVendWithNonITCItemInterState",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromGSTPurchRetOrdImportVendWithNonITCItem",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromGSTPurchInvImportVendWithNonITCItem",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchQuoteUnregVendorWithITCForItem",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchOrdUnregVendorWithITCForItem",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchInvUnregVendorWithITCItem",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchQuoteUnregVendorWithNonITCForItem",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchOrdUnregVendorWithNonITCForItem",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchInvUnregVendorWithNonITCForItem",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToUnregVendWithGoodsIntraStateITCRCM",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToUnregVendWithGoodsIntraStateITCRCM",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchOrdUnregVendorWithITCServices",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchInvUnregVendorWithITCServices",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "CreatePurchQuoteUnregVendorWithNonITCIntraStateServices",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchOrdUnregVendorWithIntraStateNonITCServices",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchInvUnregVendorWithIntraStateNonITCServices",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToUnregVendWithIntraStateITCRCMServices",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToUnregVendWithIntraStateGoodsITCRCM",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchOrdUnregVendorWithIntraStateITCFA",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToUnregVendWithIntraStateITCFA",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToUnregVendWithIntraStateITCFA",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToUnregVendWithIntraStateNonITCFA",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToUnregVendWithInterStateITCFA",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToUnregVendWithInterStateITCFA",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToUnregVendWithInterStateNonITCFA",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchRetOrdToUnregVendWithIntraStateITCFALineDisc",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToUnregVendWithIntraStateITCFALineDisc",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToUnregVendWithInterStateNonITCFALineDisc",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchOrdUnregVendorWithIntraStateNonITCSFAWithLineDisc",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchInvUnregVendorWithIntraStateNonITCFAWithLineDisc",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchInvUnregVendorWithIntraStateITCFA",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchOrdUnregVendorWithITCLineDiscForFixedAsset",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchInvUnRegVendorWithITCLineDiscForFixedAsset",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchOrdUnRegVendorWithoutITCLineDiscForFixedAsset",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchInvUnRegVendorWithoutITCLineDiscForFixedAsset",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdUnRegVendorWithITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvUnRegVendorWithITCMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromInterStateUnRegVendorPurchOrdWithITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromInterStateUnRegVendorPurchInvWithITCWithMultipleHSNCod",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromInterStateUnRegVendorPurchOrdWithoutITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromInterStateUnRegVendorPurchInvWithoutITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "CreateIntraStatePurchOrdFromQuoteForGoodsUnRegVendorWithReverseExempt",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdForServiceUnRegVendorWithReverseExempt",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvForServiceUnRegVendorWithReverseExempt",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "CreateIntraStatePurchOrdFromQuoteForServiceUnRegVendorWithReverseExempt",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdUnRegVendorForFALineDiscWithITC",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvUnRegVendorForFALineDiscWithITC",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchCrMemoUnRegVendorForItemWithITC",
+        "CodeunitName":  "GST Purchase Unregistered"
+    },
+    {
+        "Method":  "PostFromPurchaseServiceQuoteReverseChargeWithITC",
+        "CodeunitName":  "GST Purchase Reverse Charge"
+    },
+    {
+        "Method":  "PostFromPurchaseServiceOrdersReverseChargeWithITC",
+        "CodeunitName":  "GST Purchase Reverse Charge"
+    },
+    {
+        "Method":  "PostFromPurchaseServiceInvoiceReverseChargeWithITC",
+        "CodeunitName":  "GST Purchase Reverse Charge"
+    },
+    {
+        "Method":  "PostFromPurchaseServiceQuoteReverseChargeWithoutITC",
+        "CodeunitName":  "GST Purchase Reverse Charge"
+    },
+    {
+        "Method":  "PostFromInterStatePurchaseServiceQuoteReverseChargeWithITC",
+        "CodeunitName":  "GST Purchase Reverse Charge"
+    },
+    {
+        "Method":  "PostFromInterStatePurchaseServiceOrderReverseChargeWithITC",
+        "CodeunitName":  "GST Purchase Reverse Charge"
+    },
+    {
+        "Method":  "PostFromInterStatePurchaseServiceInvoiceReverseChargeWithITC",
+        "CodeunitName":  "GST Purchase Reverse Charge"
+    },
+    {
+        "Method":  "PostFromInterStatePurchaseServiceQuoteReverseChargeWithoutITC",
+        "CodeunitName":  "GST Purchase Reverse Charge"
+    },
+    {
+        "Method":  "PostFromInterStatePurchaseServiceOrderReverseChargeWithoutITC",
+        "CodeunitName":  "GST Purchase Reverse Charge"
+    },
+    {
+        "Method":  "PostFromInterStatePurchaseServiceInvoiceReverseChargeWithoutITC",
+        "CodeunitName":  "GST Purchase Reverse Charge"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToSEZVendWithNonITCGoodsCopyDoc",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToSEZVendWithNonITCGoods",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchOrderToSEZVendWithNonITCFA",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchOrderToSEZVendWithNonITCServices",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchInvoiceToSEZVendWithNonITCServices",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchOrdToSEZVendWithNonITCGoods",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchOrdToSEZVendWithITCGoods",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchOrdToSEZVendWithITCExempetedGoods",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchRetOrderToSEZVendWithITCFA",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToSEZVendWithITCFA",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchRetOrderToSEZVendWithNonITCFA",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToSEZVendWithNonITCFA",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchRetOrderToSEZVendWithITCFAIntra",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToSEZVendWithITCFAIntra",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchRetOrderToSEZVendWithNonITCFAIntra",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchCrMemoToSEZVendWithNonITCFAIntra",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchInvSEZVendorWithoutITCLineDiscountForFixedAsset",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchOrdSEZVendorWithITCLineDiscountForFixedAsset",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchInvSEZVendorWithITCWithLineDiscountForFixedAsset",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchOrdSEZVendorWithoutITCLineDiscountForFixedAsset",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchInvSEZVendorWithoutITCLineDiscForFixedAsset",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchOrdWithITCGSTForSEZVendorWithBillofEntry",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchaseOrderWithoutITCForSEZVendorWithBillofEntry",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchaseServiceOrderWithITCForSEZVendorWithBillofEntry",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromMultiLineInterstatePurchaseOrderWithITCForSEZVendor",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromMultiLineInterstatePurchaseInvoiceWithITCForSEZVendor",
+        "CodeunitName":  "GST Purchase SEZ"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdRegVendorWithITCForServiceInterState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoRegVendorWithITCForServiceInterState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdRegVendorForServiceInterState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoRegVendorForServiceInterState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdRegVendorForServiceIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoRegVendorForServiceIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdRegVendorWithITCForServiceIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdImportVendorWithITCForServiceIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdImportVendorWithITCForService",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoImportVendorWithITCForServiceWithCopyDoc",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdImportGoodsWithITCForIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdImportedGoodsWithITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoImportedGoodsWithITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseCreditMemoImportedGoodsWithITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseCreditMemoOfImportedGoodsUsingGetDocument",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseReturnOrderRegisterdVendorForServiceIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrderOfGoodsFromRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoOfGoodsFromRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoOfServicesFromRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoOfGoodsFromRegVendorWithITCIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdUnRegVendorForServicesIntraStateRevChargeWithoutITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoUnRegVendorForServicesIntraStateRevChargeWithoutITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromGSTPurchaseCreditMemoVendorWithoutITCForItem",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseReturnOrderRegVendorWithoutITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoImportVendorWithITCForService",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrderImportVendorWithoutITCForService",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoImportVendorWithoutITCForService",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdImportVendorWithoutITCForService",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoCopyDocumentImportVendorWithoutITCForService",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdRegVendorWithITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoRegVendorWithITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdRegVendorWithoutITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoRegVendorWithoutITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdAssociatedVendorWithITCForService",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdAssociatedTypeVendorWithITCForService",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoAssociatedVendorWithCopyDocumentWithITCForService",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoAssociatedTypeVendorWithITCForService",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchasCreditMemoUnRegVendorForGoodsIntraStateRevChargeWithoutITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdUnRegVendorForGoodsIntraStateWithoutITCRevCharge",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseCreditMemoForImportedServiceFromAssociates",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoForImportedServiceFromAssociatesWithCopyDoc",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoForImportedServiceFromAssociatesWithoutITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoForImportedServiceFromAssociatesWithGetReversedDoc",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdCompositeVendorWithITCForFixedAsset",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdCompositeVendorWithoutITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoCompositeVendorWithITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemosCompositeVendorWithoutITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseReturnCompositeVendorWithITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoCompositeVendorWithITCForGoodsIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoCompositeVendorWithoutITCForFixedAsset",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseReturnCompositeVendorWithoutITCForFixedAsset",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseCreditMemoCompositeVendorWithITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseReturnOrderVendorWithoutITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseReturnOrderRegVendorWithITCForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoForRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoForRegVendorWithoutITCIntraStateCopyDoc",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoForRegVendorWithITCGoodsIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoForRegVendorWithoutITCGoodsIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrdForeGoodWithoutITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoUnregistredVendorForGoods",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoOfGoodsFromRegVendor",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoOfFixedAssetFromRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoOfFixedAssetFromRegVendorWitLineDiscount",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoOfFixedAssetFromUnRegVendorInterState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoOfFixedAssetFromUnRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoOfFixedAssetFromUnRegVendorWithoutITCIntraState",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchCreditMemoOfGoodsFromCompositeVendorWithITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchaseCreditMemoOfGoodsFromRegVendor",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrderOfImportedServiceFromAssociates",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrderOfGoodsFromRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrderOfGoodsFromRegVendorWithITCWithLineDis",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrderOfGoodsFromRegVendorWithLineDisc",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrderOfGoodsFromRegVendorWithoutITCWithLineDisc",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrderOfGoodsFromUnRegVendorWithITCWithLineDisc",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrderOfGoodsFromUnRegVendorWithoutITCWithDisc",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchReturnOrderOfGoodsFromUnRegVendorWithoutITCWithLineDisc",
+        "CodeunitName":  "GST Purchase Return Registered"
+    },
+    {
+        "Method":  "PostFromPurchInvSEZVendorWithoutITCWithLineDiscForFA",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdWithITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvWithITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdWithITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromMultiLineIntraStatePurchOrdWithITCForRegVendor",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromMultiLineIntraStatePurchInvWithITCForRegVendor",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromMultiLineInterStatePurchOrdWithITCForRegVendor",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromMultiLineInterStatePurchInvWithITCForRegVendor",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromMultiLineInterStatePurchOrdWithoutITCForRegVendor",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromMultiLineInterStatePurchInvWithoutITCRegVendor",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdRegisteredVendorbyISDWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdMultipleLineRegVendorbyISDWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdRegVendorbyISDWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdMultipleLineRegVendorbyISDWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdRegisteredVendorbyISDWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromMultiLineInterStatePurchOrdRegVendorbyISDWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdRegisteredVendorbyISDWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromMultiLineInterStatePurchInvRegVendorbyISDWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseServicesQuoteWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseServicesOrdereWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseServicesInvoiceWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseQuoteGoodsWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdeGoodsWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvGoodsWithDiscRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchOrdWithITCWithMultipleHSNCodeWise",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvWithITCWithMultipleHSNCodeWise",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdWithITCWithMultipleHSNCodeWise",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvWithITCWithMultipleHSNCode",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchOrdWithoutITCWithMultipleHSNCodeWise",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvWithoutITCWithMultipleHSNCodeWise",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntrastatePurchaseServicesQuoteForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntrastatePurchaseServicesOrderForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseServicesQuoteForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseServicesOrderForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseGoodsQuoteForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseGoodsOrderForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntrastatePurchaseServicesInvoiceForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseGoodsQuoteForRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseGoodsOrderForRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterstatePurchaseGoodsInvoiceForRegVendorWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CreatePurchaseOrderFromQuoteForGoodsRegisteredWithoutITCIntraState",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromPurchaseOrderForRegisteredWithoutITCIntraSate",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvForRegVendorWithDebitNoteAvailment",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseInvoiceForRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvForRegisteredWithSupplementaryAvailment",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromPurchaseOrderForRegisteredWithITCIntraState",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CreateIntraStatePurchaseOrderFromQuoteForServiceRegVendorWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchInvForRegisteredWithDebitNoteWithoutAvailment",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromPurchInvForServiceRegisteredWithITCIntraSate",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CheckAfterChangePaytoVendoronPurchaseHeader",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CheckOnPurchaseLineUpdateTypeNumberandQty",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CheckAfterChangeOrderAddressOnPurchaseHeaderDocument",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CheckAfterChangeInvoiceTypeOnHeader",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CheckAfterChangeGSTGroupOnLine",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CheckChangeExemptedonPurchaseLine",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CheckValidationforCustomDutyAmountandAssessableValueonPurchaseline",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CheckInvoiceTypeSupplementaryPurchaseLine",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "CheckAfterChangeLocationCodeAndPOSOnPurchaseHeader",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromPurchaseOrderForFixedAssetWithITCWithForIntraState",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseInvoiceForFAWithITCWithLineDisc",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseOrderForFAWithLineDisc",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntraStatePurchaseInvoiceForFixedAssetWithLineDiscount",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchaseOrderForFixedAssetWithLineDiscountWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchInvForFixedAssetWithLineDiscountWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchaseOrderForFAWithLineDiscWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromInterStatePurchaseInvoiceForFixedAssetWithLineDisctWithoutITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromPurchaseInvoiceRegisteredVendorForGoodsForIntraState",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromIntrastatePurchaseGoodsQuoteForRegisteredVendorWithITC",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostGSTPurchaseQuoteRegisterdVendorWithoutITCForItem",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostGSTPurchaseInvoiceRegisterdVendorWithoutITCForItem",
+        "CodeunitName":  "GST Purchase Reg"
+    },
+    {
+        "Method":  "PostFromRegCustSalesInvInterstateWithShipToAddrItem",
+        "CodeunitName":  "GST Sales Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustSalesInvIntrastateWithShipToAddrItem",
+        "CodeunitName":  "GST Sales Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustSalesInvInterstateWithShipToAddrGL",
+        "CodeunitName":  "GST Sales Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustSalesInvIntrastateWithShipToAddrGL",
+        "CodeunitName":  "GST Sales Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustSalesInvInterstateWithShipToAddrFA",
+        "CodeunitName":  "GST Sales Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustSalesInvIntrastateWithShipToAddrFA",
+        "CodeunitName":  "GST Sales Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustSalesInvInterstateWithShipToAddrRes",
+        "CodeunitName":  "GST Sales Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustSalesInvIntrastateWithShipToAddrRes",
+        "CodeunitName":  "GST Sales Ship To Addr Tests"
+    },
+    {
+        "Method":  "GSTTCSIntraStateSalesOfGoodsThroughSalesQuotes",
+        "CodeunitName":  "GST TCS Transactions"
+    },
+    {
+        "Method":  "GSTTCSInterStateSalesOfServicesThroughSalesOrdersForUnregisteredCust",
+        "CodeunitName":  "GST TCS Transactions"
+    },
+    {
+        "Method":  "GSTTCSIntraStateSalesOfServicesThroughSalesOrders",
+        "CodeunitName":  "GST TCS Transactions"
+    },
+    {
+        "Method":  "GSTTCSIntraStateSalesOfServicesThroughSalesInvoices",
+        "CodeunitName":  "GST TCS Transactions"
+    },
+    {
+        "Method":  "GSTTCSIntraStateSalesOfServicesThroughSalesQuotes",
+        "CodeunitName":  "GST TCS Transactions"
+    },
+    {
+        "Method":  "GSTTCSInterStateSalesOfGoodsThroughSalesQuotes",
+        "CodeunitName":  "GST TCS Transactions"
+    },
+    {
+        "Method":  "GSTTCSInterStateSalesOfGoodsThroughSalesOrders",
+        "CodeunitName":  "GST TCS Transactions"
+    },
+    {
+        "Method":  "GSTTCSInterStateSalesOfGoodsThroughSalesInvoices",
+        "CodeunitName":  "GST TCS Transactions"
+    },
+    {
+        "Method":  "GSTTCSInterStateSalesOfServicesThroughSalesOrders",
+        "CodeunitName":  "GST TCS Transactions"
+    },
+    {
+        "Method":  "GSTTCSInterStateSalesOfServicesThroughSalesQuotes",
+        "CodeunitName":  "GST TCS Transactions"
+    },
+    {
+        "Method":  "PostFromSalesCreditMemoForRegCustInterStateWithPIT",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromSalesCreditMemoForRegCustIntraStateWithPIT",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderForRegCustInterState",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromInterStateSalesReturnOrderOfServiceForRegCust",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromInterStateSalesCreditMemoOfGoodsForRegCustomer",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromInterStateSalesCreditMemoOfServiceForRegCustomer",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromInterStateSalesReturnOrderForUnRegCustomer",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromInterStateSalesReturnOrderOfServiceForUnRegCustomer",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromIntraStateSalesCreditMemoOfGoodsForUnRegCustomer",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromInterStateSalesCreditMemoOfServiceForUnRegCustomer",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromIntraStateSalesReturnOrderGoodsForRegCust",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromIntraStateSalesReturnOrderGoodsForUnRegCustomer",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromIntraStateSalesReturnOrderServicesForRegCust",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromIntraStateSalesReturnOrderServicesForUnRegCustomer",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromIntraStateSalesCreditMemoGoodsForRegCust",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromIntraStateSalesCreditMemoGoodsForUnRegCust",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromIntraStateSalesCreditMemoServicesForRegCust",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromIntraStateSalesCreditMemoServicesForUnRegCust",
+        "CodeunitName":  "Sales Return Tests"
+    },
+    {
+        "Method":  "PostFromFinChrgeMemoWithRegCustInterstate",
+        "CodeunitName":  "GST Fin Charge Memo"
+    },
+    {
+        "Method":  "PostFromFinChrgeMemoWithRegCustIntrastate",
+        "CodeunitName":  "GST Fin Charge Memo"
+    },
+    {
+        "Method":  "VerifyGSTWithoutPaymentOfDutyErrorForRegCust",
+        "CodeunitName":  "GST Fin Charge Memo"
+    },
+    {
+        "Method":  "VerifyInvoiceTypeErrorForRegCust",
+        "CodeunitName":  "GST Fin Charge Memo"
+    },
+    {
+        "Method":  "PostFromFinChrgeMemoWithExemptedCustIntrastate",
+        "CodeunitName":  "GST Fin Charge Memo"
+    },
+    {
+        "Method":  "PostFromFinChrgeMemoWithExemptedCustInterstate",
+        "CodeunitName":  "GST Fin Charge Memo"
+    },
+    {
+        "Method":  "PostFromFinChrgeMemoWithSEZDevelopmntCustInterstate",
+        "CodeunitName":  "GST Fin Charge Memo"
+    },
+    {
+        "Method":  "PostFromFinChrgeMemoWithDeemedExportCustInterstate",
+        "CodeunitName":  "GST Fin Charge Memo"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceForRegisteredCustomerInterStatePIT",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceForRegisteredCustomerIntraStatePIT",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvWithRegCustServiceIntraStateWithAdvPayment",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvWithRegCustServiceInterStateWithAdvPayment",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvWithRegCustServiceIntraStateWithNormalPayment",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvWithRegCustServiceInterStateWithOfflineApplicationAdvPayment",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvWithRegCustServiceIntraStateWithOfflineApplication",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvWithExportCustServiceInterStateWithNormalPayment",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvWithRegCustServiceInterStateWithNormalPayment",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvWithRegCustServiceInterStateWithUnApplication",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvWithRegCustServiceIntraStateWithUnApplication",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustGoodsSalesOrderIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustGoodsSalesQuoteIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceSalesOrderIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustGoodsSalesQuotesInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustGoodsSalesOrdersInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustGoodsSalesInvoicesInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerGoodsSalesQuotesInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerGoodsSalesOrdersInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerGoodsSalesInvoicesInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerGoodsSalesQuotesIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerGoodsSalesOrderIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerGoodsSalesInvoicesIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerSalesServiceQuotesIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerServiceSalesOrderIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerSalesServiceInvoicesIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerSalesServiceQuotesInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerSalesServiceOrderInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerSalesServiceInvoicesInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustomerSalesServiceOrderIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustomerSalesServiceInvoicesIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustomerSalesServiceQuotesInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustomerSalesServiceOrderInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustomerSalesServiceInvoicesInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesQuoteOfExportSEZUnitCustomerWithoutPaymentofDutyWithGoods",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportSEZUnitCustomerWithoutPaymentofDutyWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportSEZUnitCustomerWithoutPaymentOfDutyWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesQuoteOfExportSEZUnitCustomerWithPaymentOfDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportSEZUnitCustomerWithPaymentOfDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportSEZUnitCustomerWithPaymentofDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesQuoteOfExportSEZUnitCustomerWithoutPaymentofDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportSEZUnitCustomerWithoutPaymentofDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportSEZUnitCustomerWithoutPaymentofDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportSEZUnitCustomerWithPaymentofDutyWithFA",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportSEZUnitCustomerWithPaymentofDutyWithFA",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportSEZUnitCustomerWithoutPaymentofDutyWithFA",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesQuoteOfExportSEZDevCustWithoutPaymentofDutyWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportSEZDevCustWithoutPaymentofDutyWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesQuoteOfExportSEZDevCustWithPaymentofDutyWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportSEZDevCustWithPaymentofDutyWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportSEZDevCustWithPaymentofDutyWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesQuoteOfExportSEZDevCustWithPaymentofDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportSEZDevCustWithPaymentofDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportSEZDevCustWithPaymentofDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfSEZDevelopmentCustomerWithoutPaymentofDutyWithFA",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfSEZDevelopmentCustomerWithPaymentofDutyWithFA",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportOfDeemedExportCustomerWithPaymentofDutyWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportOfDeemedExportCustomerWithPaymentofDutyWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesQuoteOfExportOfDeemedExportCustomerWithPaymentofDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportOfDeemedExportCustomeWithPaymentofDutyrWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesQuoteOfExportOfDeemedExportCustomerWithoutPaymentofDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportOfDeemedExportCustomerWithoutPaymentOfDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportOfDeemedExportCustomerWithoutPaymentofDutyWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromWithKFCRegisteredCustomerServicesSalesQuotesInteraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSaleOrderOfServiceToOverseasPlaceOfSupply",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSaleInvoicesOfServiceToOverseasPlaceOfSupply",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportSEZDevCustWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesQuoteOfExportSEZDevCustWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportSEZDevCustWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportSEZDevCustWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportOfDeemedExportCustomerWithPaymentofDutyWithFA",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportDeemedExportCustomerWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrdOfExportDeemedCustomerWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesInvOfExportDeemedCustomerWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesQuoteOfExportDeemedCustomerWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromInterstateSalesOrderOfExemptedCustomeriWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromInterstateSalesInvoiceOfExemptedCustomeriWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromInterstateSalesOrderOfExemptedCustomeriWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromInterstateSalesInvoiceOfExemptedCustomeriWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromInterstateSalesQuoteOfExemptedCustomeriWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromInterstateSalesQuoteOfExemptedCustomeriWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromIntrastateSalesQuoteOfExemptedCustomeriWithItem",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromIntrastateSalesQuoteOfExemptedCustomeriWithGLAccount",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustGoodsBlanketSalesOrderIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceBlanketSalesOrderIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustGoodsSalesOrderPartialQtyInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustGoodsSalesInvoiceInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerGoodsSalesOrderPartialQtyInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerGoodsSalesInvoiceInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustGoodsSalesOrderPartialQtyIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegCustGoodsSalesInvoiceIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerGoodsSalesOrderPartialQtyIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerGoodsSalesInvoiceIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegisteredCustomerSalesofFixedAssetsOrdersIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegisteredCustomerSalesInvoiceofFixedAssetsOrdersIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerSalesInvoiceofFixedAssetsOrdersIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerSalesInvoiceofFixedAssetsInvoiceIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegisteredCustomerSalesOrderofFixedAssetsIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegisteredCustomerSalesOrderofFixedAssetsWithLineDiscountIntraState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegisteredCustomerSalesOrderofFixedAssetsWithLineDiscountInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromRegisteredCustomerSalesInvoiceofFixedAssetsWithLineDiscountInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerSalesOrderofFixedAssetsWithLineDiscountInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustomerSalesInvoiceofFixedAssetsWithLineDiscountInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromDeemedExportCustomerSalesInvoiceofFixedAssetsWithPaymentDutyInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoForRegisteredCustomerInterState",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostFromSalesOrderForRegisteredCustomerInterStatePIT",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "CreateSalesOrderForRegisteredCustomerIntraStatePOSOutOfIndia",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "CreateSalesOrderForExportCustomerInterStateWithShipToCustomer",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "PostGSTSettlementEntriesForSalesInvoice",
+        "CodeunitName":  "GST Sales Tests"
+    },
+    {
+        "Method":  "ValidateGSTFieldsOnServiceOrder",
+        "CodeunitName":  "GST Service Preparations"
+    },
+    {
+        "Method":  "ValidateGSTFieldsOnServiceInvoice",
+        "CodeunitName":  "GST Service Preparations"
+    },
+    {
+        "Method":  "ValidateGSTFieldsOnServiceCreditMemo",
+        "CodeunitName":  "GST Service Preparations"
+    },
+    {
+        "Method":  "ValidateGSTFieldsOnServiceQuote",
+        "CodeunitName":  "GST Service Preparations"
+    },
+    {
+        "Method":  "PostFromRegCustServiceOrdIntraStateWithItemResAppWithAdvPayment",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceOrdInterStateWithItemResAppWithAdvPayment",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceOrdInterStateWithItemResAppWithNormalPayment",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceOrdInterStateWithItemResOfflineAppWithAdvPayment",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceOrdInterStateWithItemResWithOfflineApplication",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromUnregCustServiceOrdIntraStateWithItemResAppWithNormalPayment",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromExportCustServiceOrdInterStateWithItemResAppWithNormalPayment",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceOrdInterStateWithItemResWithUnApplication",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceOrdInterStateWithItemResWithNoramlPaymentUnapplication",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustServiceInvoiceIntraStateWithGLRes",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckAppliestoDocNoValidationForExemptedItem",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckInvoiceTypeValidationOnServiceOrdForUnregCust",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckGSTGroupRevChargeForServiceInvWithGLAccount",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckGSTAssesabelValueValiadtionsWithGLAccount",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckGSTAssesabelValueLCYValiadtionsWithGLAccount",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckGSTGroupRevChargeForServiceInvWithItem",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckGSTGroupRevChargeValidationForItem",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckGSTGroupRevChargeForServiceInvWithResource",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckGSTGroupRevChargeForServiceInvWithCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvoiceIntraStateWithResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvoiceInterStateWithResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromExemptCustServiceInvoiceIntraStateWithResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromExemptCustServiceInvoiceInterStateWithResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustServiceOrdIntraStateWithItemRes",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustServiceOrdInterStateWithItemResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceOrdIntraStateWithItemResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceOrdInterStateWithItemResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromExemptCustServiceOrdIntraStateWithItemResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromExemptCustServiceOrdInterStateWithItemResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromSEZUnitCustServiceOrdInterStateWithItemResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromSEZUnitCustServiceOrdWithItemResCostWithoutPaymntDuty",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromExportCustServiceOrdInterStateWithItemResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromSEZDevUnitCustServiceOrdInterStateWithItemResCost",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckInvoiceTypeValidationOnServiceOrdForExpCust",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckInvoiceTypeValidationOnServiceOrdForExemptedCust",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckPOSOutofIndiaValidationOnServiceOrdForExportCust",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckGSTWithoutPaymntofDutyValidationForRegCust",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckInvoiceTypeValidationOnServiceInvForDeemedExpCust",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "VerifyNonGSTLineCheckOnServiceInvoice",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvoiceIntraStateWithGLResNonGST",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvoiceInterStateWithGLResNonGST",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustServiceInvoiceThroughServContrctWithItem",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvoiceThroughServContrctWithItem",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvoiceThroughServContrctWithItemGL",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromExemptCustServiceInvoiceThroughServContrctWithItem",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromExemptCustServiceInvoiceThroughServContrctWithItemGL",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromUnRegCustServiceInvoiceThroughServQuoteWithItem",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromExemptCustServiceInvoiceThroughServQuoteWithItemGL",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "PostFromServiceCrMemoForRegCustomerWithRefInv",
+        "CodeunitName":  "GST Service Tests"
+    },
+    {
+        "Method":  "CheckPosOutofIndiaExportCutomer",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckRegisteredCustomerNotExemptedSalesInvoiceType",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckRegisteredCustomerExemptedSalesInvoiceType",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckExportCustomerNotExemptedSalesInvoiceType",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckExportCustomerExemptedSalesInvoiceType",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckExemptedCustomerTaxableSalesInvoiceType",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckRegisteredCustomerTaxableSalesInvoiceTypeRefInvNo",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckAccountNoPartyTypeCustomer",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckBalCustNo",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckCustomerInvoiceWithAppliestoDocNo",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckFAInvoiceGSTPlaceofSupply",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckShiptoCodeRegArnNo",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckPosOutofIndiaIMultiLineCustomerLocationAddress",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckPosOutofIndiaCustomerBlankGSTPlaceofSupply",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromBankReceiptVoucherWithGSTOnAdvanceReceiptForSEZDevelopment",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromBankReceiptVoucherWithGSTOnAdvanceReceiptForExport",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromBankReceiptVoucherWithGSTOnAdvanceReceiptForDeemedExports",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromBankReceiptVoucherWithGSTOnAdvanceReceiptForSEZUnit",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromBankReceiptVoucherWithGSTOnAdvanceReceiptForExemptedCustomer",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromSalesJournalForGoodsRegisteredInterState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromSalesJournalForServiceUnregisteredInterState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromGeneralJournalForServiceUnregisteredInterState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromGeneralJournalForServiceRegisteredIntraState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromSalesJournalForRegisteredIntraState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromSalesJournalForUnregisteredIntraState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromGeneralJournalForRegisteredIntraState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromGeneralJournalForUnregisteredIntraState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromGeneralJournalForExportIntraState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromGeneralJournalForSezUnitIntraState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromGeneralJournalForSEZDevelopmentIntraState",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromSalesJournalForExportWithFCY",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "PostFromSalesJournalCreditMemoForRegisteredCustomerWithRefInvNo",
+        "CodeunitName":  "GST On Journals For Customer"
+    },
+    {
+        "Method":  "CheckGSTTDSTCSGSTJurisdictionType",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "CheckPosOutofIndiaImportVendor",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "CheckAccountNoPartyTypeVendor",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "CheckPosAsVendorStateWithPOSoutOfIndia",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "CheckBalVendNo",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "CheckABSValueGSTAssessableValue",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "CheckABSValueGSTCustomDutyAmount",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromPurchaseJournalWithITCForRegisetredVendor",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromPurchaseJournalWithITCForUnregisetredVendor",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromPurchaseJournalWithITCForImportVendor",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromPurchaseJournalWithITCForAssociateVendor",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromGeneralJournalWithReverseChargeWithoutInputCreditAvailmentForUnregisetredVendor",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromPurchaseJournalWithReverseChargeWithAvailment",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromPurchaseJournalWithReverseChargeWithoutInputCreditAvailment",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromFAGLournalForRegisteredWithAvailmentForIntraState",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromFAGLournalForImportWithAvailmentForInterState",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromFAGLournalCreditMemoForRegisteredWithAvailmentForIntraState",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromFAGLournalCreditMemoForUnregisteredWithAvailmentForIntraState",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromPurchaseJournalForGoodsRegisteredWithoutAvailmentInterState",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromGeneralJournalForServiceRegisteredWithAvailmentInterState",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromGeneralJournalForServiceRegisteredWithoutAvailmentInterState",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromPurchaseJournalForRegisteredReverseInterState",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromPurchaseJournalForRegisteredReverseInterStateCreditMemo",
+        "CodeunitName":  "GST On Journals For Vendor"
+    },
+    {
+        "Method":  "PostFromBankPaymentVoucherWithIntrastateBankChargesAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankPaymentVoucherWithInterstateBankChargesAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankPaymentVoucherWithInterstateBankChargesNonAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankPaymentVoucherWithIntrastateBankChargesNonAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankReceiptVoucherWithInterstateBankChargesAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankReceiptVoucherWithIntrastateBankChargesAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankReceiptVoucherWithIntrastateBankChargesNonAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankReceiptVoucherWithInterstateBankChargesNonAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankPaymentWithIntrastateBankChargesAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankPaymentsWithInterstateBankChargesAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankPaymentsWithInterstateBankChargesNonAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "PostFromBankPaymentsWithIntrastateBankChargesNonAvailment",
+        "CodeunitName":  "Jnl Bank Charges Tests"
+    },
+    {
+        "Method":  "TestApplyGSTSettlementWithBlankPostingDate",
+        "CodeunitName":  "GST Settlement Tests"
+    },
+    {
+        "Method":  "TestApplyGSTSettlement",
+        "CodeunitName":  "GST Settlement Tests"
+    },
+    {
+        "Method":  "PostGSTAdjForGoodsLostDestroyedRegisteredVendorIntraState",
+        "CodeunitName":  "GST Adjustment Journal Tests"
+    },
+    {
+        "Method":  "PostGSTAdjForGoodsConsumedRegisteredVendorIntraState",
+        "CodeunitName":  "GST Adjustment Journal Tests"
+    },
+    {
+        "Method":  "PostTransferOrderwithInterStateStockTransferITC",
+        "CodeunitName":  "GST Stock Transfer Tests"
+    },
+    {
+        "Method":  "PostFromTransferOrderwithIntraStateStockTransferITC",
+        "CodeunitName":  "GST Stock Transfer Tests"
+    },
+    {
+        "Method":  "PostFromTransferOrderwithInterStateStockTransferWithoutITC",
+        "CodeunitName":  "GST Stock Transfer Tests"
+    },
+    {
+        "Method":  "PostFromTransferOrderwithBondedWarehouseInterStateITC",
+        "CodeunitName":  "GST Bonded Warehouse Tests"
+    },
+    {
+        "Method":  "VerifyGSTAssesableValuewithBondedWarehouseInterStateITC",
+        "CodeunitName":  "GST Bonded Warehouse Tests"
+    },
+    {
+        "Method":  "VerifyCustomDutyAmountwithBondedWarehouseInterStateITC",
+        "CodeunitName":  "GST Bonded Warehouse Tests"
+    },
+    {
+        "Method":  "PostTransferOrderwithInterStateBondedWarehouseWithoutITC",
+        "CodeunitName":  "GST Bonded Warehouse Tests"
+    },
+    {
+        "Method":  "PostFromInterStateServiceTransfer",
+        "CodeunitName":  "GST Service Transfer"
+    },
+    {
+        "Method":  "PostFromIntraStateServiceTransfer",
+        "CodeunitName":  "GST Service Transfer"
+    },
+    {
+        "Method":  "SubconOrderToUnregVendIntraStateSendItem",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToUnregVendIntraStateReceiveItem",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToUnregVendIntraStateReceiveItemPartial",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToUnregVendIntraStateReceiveItemPartialRejectVE",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToUnregVendIntraStateReceiveItemPartialRejectVEDrNote",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendIntraStateSendItem",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendIntraStateReceiveItem",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendInterStateSendItem",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendInterStateReceiveItem",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendInterStateReceiveItemPartial",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendInterStateReceiveItemPartialRejectCE",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendInterStateReturnItem",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendIntraStateCreateGSTLiability",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendIntraStatePostGSTLiability",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendInterStateCreateGSTLiability",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendInterStatePostGSTLiability",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendInterStatePostGSTLiabilityReceiveItem",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToRegVendIntraStateReceiveItemWithTracking",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderToUnregVendIntraStateSendItemRework",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderMultipleToUnregVendIntraStateSendItem",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "SubconOrderMultipleToUnregVendIntraStateReceiveItem",
+        "CodeunitName":  "GST Subcontracting"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvInterstateWithShipToAddrItem",
+        "CodeunitName":  "GST Service Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvIntrastateWithShipToAddrItem",
+        "CodeunitName":  "GST Service Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvInterstateWithShipToAddrGL",
+        "CodeunitName":  "GST Service Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvIntrastateWithShipToAddrGL",
+        "CodeunitName":  "GST Service Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvInterstateWithShipToAddrCost",
+        "CodeunitName":  "GST Service Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvIntrastateWithShipToAddrCost",
+        "CodeunitName":  "GST Service Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvInterstateWithShipToAddrRes",
+        "CodeunitName":  "GST Service Ship To Addr Tests"
+    },
+    {
+        "Method":  "PostFromRegCustServiceInvIntrastateWithShipToAddrRes",
+        "CodeunitName":  "GST Service Ship To Addr Tests"
+    }
+]

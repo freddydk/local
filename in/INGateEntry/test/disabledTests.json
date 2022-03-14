@@ -1,0 +1,30 @@
+﻿[
+    {
+        "Method":  "PostFromGateEntryOutwardWithSalesShipment",
+        "CodeunitName":  "Test Gate Entry"
+    },
+    {
+        "Method":  "PostFromGateEntryInwardForSalesReturnOrder",
+        "CodeunitName":  "Test Gate Entry"
+    },
+    {
+        "Method":  "PostFromGateEntryInForSalesRetrnOrdWithAttchedEntries",
+        "CodeunitName":  "Test Gate Entry"
+    },
+    {
+        "Method":  "PostFromGateEntryOutwardWithTransferShipment",
+        "CodeunitName":  "Test Gate Entry"
+    },
+    {
+        "Method":  "PostFromGateEntryInTrnsferRcptWithGetGateEntryLines",
+        "CodeunitName":  "Test Gate Entry"
+    },
+    {
+        "Method":  "PostFromGateEntryInTrnsferRcptWithAttchedPostedEntrs",
+        "CodeunitName":  "Test Gate Entry"
+    },
+    {
+        "Method":  "PostFromGateEntryInWhseRcptWithAttachedEntries",
+        "CodeunitName":  "Test Gate Entry Attachments"
+    }
+]

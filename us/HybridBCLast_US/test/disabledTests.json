@@ -1,0 +1,14 @@
+﻿[
+    {
+        "Method":  "TestIrs1099FormBoxesGetUpdated",
+        "CodeunitName":  "Test Upgrade US"
+    },
+    {
+        "Method":  "DataExchDefTransformsData",
+        "CodeunitName":  "Test Upgrade US"
+    },
+    {
+        "Method":  "DataExchDefLoadsData",
+        "CodeunitName":  "Test Upgrade US"
+    }
+]

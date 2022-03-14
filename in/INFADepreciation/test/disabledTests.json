@@ -1,0 +1,46 @@
+﻿[
+    {
+        "Method":  "VerifyDepreciationStraightLine",
+        "CodeunitName":  "FA Depreciation"
+    },
+    {
+        "Method":  "VerifyDepreciationDecliningBalanceAddlDep",
+        "CodeunitName":  "FA Depreciation"
+    },
+    {
+        "Method":  "VerifyDepreciationDecliningBalanceNormalDepFirstYearHalfUtilize",
+        "CodeunitName":  "FA Depreciation"
+    },
+    {
+        "Method":  "VerifyDepreciationDecliningBalanceAddlDepFirstYearHalfUtilize",
+        "CodeunitName":  "FA Depreciation"
+    },
+    {
+        "Method":  "VerifyDepreciationDecliningBalanceBlockOneAssetSoldAboveWDV",
+        "CodeunitName":  "FA Depreciation"
+    },
+    {
+        "Method":  "VerifyDepreciationDecliningBalanceBlockOneAssetSoldBelowWDV",
+        "CodeunitName":  "FA Depreciation"
+    },
+    {
+        "Method":  "VerifyDepreciationDecliningBalanceAfterRevaluation",
+        "CodeunitName":  "FA Depreciation"
+    },
+    {
+        "Method":  "VerifyDepreciationDecliningBalanceWithCompanyDepBook",
+        "CodeunitName":  "FA Depreciation"
+    },
+    {
+        "Method":  "VerifyDepreciationStraightLineSeasonalWithCompanyDepBook",
+        "CodeunitName":  "FA Depreciation"
+    },
+    {
+        "Method":  "VerifyDepreciationStraightLineNonSeasonalWithCompanyDepBook",
+        "CodeunitName":  "FA Depreciation"
+    },
+    {
+        "Method":  "VerifyDepreciationStraightLineWithResidualWithCompanyDepBook",
+        "CodeunitName":  "FA Depreciation"
+    }
+]

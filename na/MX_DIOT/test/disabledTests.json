@@ -1,0 +1,62 @@
+﻿[
+    {
+        "Method":  "CanGenerateReport",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "RequestPage_DatesMatter",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "ValidationError_RFCNo",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "ValidationError_LeaseAndRent",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "ValidationError_NegativeAmount",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "ReportDataSetUT_VendorInfo",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "ReportDatasetUT_BaseAmountAndVATAmount",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "ReportDatasetUT_NotLinkedVATSetup",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "ReportDatasetUT_WHTCalculationSupported",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "ReportDatasetUT_SeveralSetupsLinkedToOneConcept",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "DIOTFileUT_GeneralLayout",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "DIOTFileUT_MultipleLinesForSameVendor",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "DIOTCountryRegionData_UI",
+        "CodeunitName":  "MX DIOT UT"
+    },
+    {
+        "Method":  "SetupDIOTConcepts",
+        "CodeunitName":  "DIOT Wizard Tests"
+    },
+    {
+        "Method":  "RunningReportRedirectToWizard",
+        "CodeunitName":  "DIOT Wizard Tests"
+    }
+]

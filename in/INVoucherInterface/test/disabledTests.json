@@ -1,0 +1,102 @@
+﻿[
+    {
+        "Method":  "PostFromContraVoucherWithVoucherNarration",
+        "CodeunitName":  "Voucher Interface Tests"
+    },
+    {
+        "Method":  "PostFromMultiLineContraVoucherwithVoucherSetup",
+        "CodeunitName":  "Voucher Interface Tests"
+    },
+    {
+        "Method":  "PostFromContraVoucherWithCompanyInformation",
+        "CodeunitName":  "Voucher Interface Tests"
+    },
+    {
+        "Method":  "ContraVoucherWithDifferentPostingDates",
+        "CodeunitName":  "Voucher Interface Tests"
+    },
+    {
+        "Method":  "ContraVoucherWithCashAndBankAccount",
+        "CodeunitName":  "Voucher Interface Tests"
+    },
+    {
+        "Method":  "VerifyFieldValuesOnVoucherRegisterReport",
+        "CodeunitName":  "Voucher Reports Tests"
+    },
+    {
+        "Method":  "VerifyCheckLedgerEntriesWithChequeNo",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyCheckLedgerEntriesWithChequeDateOnBankPaymentVoucher",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyCheckLedgerEntriesWithChequeDateOnPaymentJournal",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyCheckMarkedStaleErrorOnBankLedgerEntry",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyVoidCheckOnCheckLedgerEntries",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyStaleCheckOnBankAccLedgerEntriesWithActivateChequeNo",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyStaleCheckOnCheckLedgerEntriesWithActivateChequeNo",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyCheckLedgerEntriesWithChequeDateThrougBankPaymentVoucher",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyCheckLedgerEntriesWithChequeNoThrougBankPaymentVoucher",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyCheckLedgerEntriesWithChequeNoThrougPaymentJournal",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyStaleCheckOnCheckLedgerEntries",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyStaleCheckOnCheckLedgerEntriesWithoutActivateChequeNo",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyStaleCheckOnBankLedgerEntriesNotActiveThroughBankPaymnt",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyStaleCheckOnBankLedgerEntriesNotActiveThroughPaymntJnl",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyVoidCheckOnCheckLedgerEntriesCheckNotActiveThroughBankPaymentVoucher",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyVoidCheckOnCheckLedgerEntriesCheckNotActiveThroughPaymentJournal",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyVoidCheckOnCheckLedgerEntriesCheckNotActiveThroughPaymentJnlManual",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyStaleCheckOnCheckLedgerEntriesWithTDS",
+        "CodeunitName":  "Stale Cheque Tests"
+    },
+    {
+        "Method":  "VerifyStaleCheckOnCheckLedgerEntriesWithTDSComputerCheque",
+        "CodeunitName":  "Stale Cheque Tests"
+    }
+]

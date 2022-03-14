@@ -1,0 +1,1270 @@
+﻿[
+    {
+        "Method":  "CreateTCSSetup",
+        "CodeunitName":  "TCS-Preparation"
+    },
+    {
+        "Method":  "PostFromSalesOrderForAdvancePayment",
+        "CodeunitName":  "TCS on Sales Application"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceForAdvancePayment",
+        "CodeunitName":  "TCS on Sales Application"
+    },
+    {
+        "Method":  "PostFromSalesOrderForPartialAdvancePayment",
+        "CodeunitName":  "TCS on Sales Application"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceForPartialAdvancePayment",
+        "CodeunitName":  "TCS on Sales Application"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithMultilineItem",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithMultilineItem",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemAndMultipleNOC",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemAndMultipleNOC",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderTCSVerifyAndGLShipment",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderTCSVerifyAndItemShipment",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "SalesCreditMemoWithItemAndStatsVerify",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "SalesReturmOrderWithItemStatsVerify",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoTCSWithLineDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderTCSWithLineDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoTCSWithGLAcc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderTCSWithGLAcc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoTCSWithGLAccRounding",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderTCSWithGLAccRounding",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoWithoutCompanyTCANNo",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderWithoutCompanyTCANNo",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoWithoutThresholdOverlook",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderTCSWithoutCustPANNo",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceTCSWithoutCustPANNo",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithMultiLineItemChargeAndSingleNoc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithMultiLineItemChargeAndSingleNoc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemChargeStatsVerify",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderTCSWithGLAndLineDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderTCSWithItemAndLineDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceTCSWithGLAndLineDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceTCSWithItemAndLineDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderTCSWithChargeItemAndLineDisc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceTCSWithChargeItemAndLineDisc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoWithGLForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderWithGLForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoWithMultiLineItemAndSingleNoc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderWithMultiLineItemAndSingleNoc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAAndLineDiscountForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAAndLineDiscountForFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderFAWithoutThresholdAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceFAWithoutThresholdAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderFAWithFCYAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceFAWithFCYAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAAndConcessionalCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAAndConcessionalCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAAndWithoutPANNo",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoTCSWithoutTaxAccountingPeriod",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderTCSWithoutTaxAccountingPeriod",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAAndWithoutPANNo",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAccAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoWithItemAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderWithItemAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoWithMultipleChargeItemLine",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderWithMultipleChargeItemLine",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLForDifferentTCSNocEffectiveDate",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLForDifferentTCSNocEffectiveDate",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemForDifferentTCSNocEffectiveDate",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemForDifferentTCSNocEffectiveDate",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAForDifferentTCSNocEffectiveDate",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAForDifferentTCSNocEffectiveDate",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoWithItemForDifferentTCSNocEffectiveDate",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderWithItemForDifferentTCSNocEffectiveDate",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAForThreshholdOverlookAndDifferentCustomer",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAWithoutPANNoWithConcessionalCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAWithoutPANNoWithConcessionalCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceWithoutPANNoWithConcessionalCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceWithoutPANNoWithConcessionalCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceAndWithoutPANNo",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceAndWithoutPANNo",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceAndFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceAndFCY",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithMultiLineFAAndSingleNoc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithMultiLineFAAndSingleNoc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithMultiLineResourceAndSingleNoc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithMultiLineResourceAndSingleNoc",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceWithoutThresholdSurcharge",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceWithoutThresholdSurcharge",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceWithThresholdSurcharge",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceWithThresholdSurcharge",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceForThreshholdOverlookAndDifferentCustomer",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemForThreshholdOverlookAndDifferentCustomer",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAAndMultipleNOC",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAAndMultipleNOC",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderTCSVerifyAndFAShipment",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceForDifferentTCSNocEffectiveDate",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceForDifferentTCSNocEffectiveDate",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceAndLineDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceAndLineDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAAndInvoiceDiscount",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourcesAndMultipleNOC",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSaleslInvoiceWithResourcesAndMultipleNOC",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderTCSVerifyAndResourceShipment",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemAndAdditionalCurrency",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "SalesInvoiceTCSWithFAAndStatsVerify",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "SalesOrderTCSWithFAAndStatsVerify",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "SalesOrderTCSWithResourceAndStatsVerify",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "SalesCreditMemoTCSWithFAAndStatsVerify",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "SalesReturnOrderTCSWithFAAndSatsVerify",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoTCSWithResource",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderTCSWithResource",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoWithGLAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderWithGLAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithTCSNOCSelection",
+        "CodeunitName":  "TCS On Sales"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItem",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItem",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAcc",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAcc",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAccWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAccWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoicerWithFAWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItem",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItem",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithSurchargeAndThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAccWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithoutThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAccWithoutThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithoutThresholdandSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAccWithoutThresholdandSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithConcessional",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAccWithConcessional",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithSurchargeandThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithoutThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemWithoutThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithoutThresholdandSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemWithoutThresholdandSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithConcessional",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemWithConcessional",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithoutPANNo",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAccWithoutPANNo",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithoutPANNo",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemWithoutPANNo",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithCertificate",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAccWithCertificate",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithCertificate",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemWithCertificate",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderMultiLineWithItemAndNOCSelected",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceMultiLineWithItemAndNOCSelected",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceMultiLineWithGLAccAndNOCSelected",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderMultiLineWithGLAccAndNOCSelected",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "SalesOrderWithGLAccountVerifyStatistics",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "SalesOrderWithItemVerifyStatistics",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "SalesInvoiceWithGLAccountVerifyStatistics",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "SalesInvoiceWithItemVerifyStatistics",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderMultiLineWithGLAccAndMultiNOC",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithGLAccWithRounding",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithRounding",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithPartialShipment",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithPartialInvoice",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithRounding",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithItemWithRounding",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithPartialShipment",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithGLAccWithPartialInvoice",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithPartialShipment",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithPartialInvoice",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithItemWithShipmentOnly",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithoutCompanyPANNo",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithoutAssigning",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemWithoutAssigning",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithoutAssigningWithConcessional",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemWithoutAssigningWithConcessional",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemWithSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithoutThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceChargeItemWithoutThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemAndThresholdOverlookSelected",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithDifferentEffectiveDate",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemWithDifferentEffectiveDate",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithChargeItemWithConcessional",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithChargeItemWithConcessional",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResource",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResource",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourcePartialShipment",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourcePartialInvoice",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFCYSalesOrderWithGLAccAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFCYSalesInvoiceWithGLAccAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFCYSalesOrderWithItemAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFCYSalesInvoiceWithItemAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceWithConcessional",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceWithConcessional",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFCYSalesOrderWithResourceAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFCYSalesinvoceWithResourceAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFCYSalesOrderWithResourceWithoutSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFCYSalesinvoceWithResourceWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAWithRoundOff",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAWithRoundOff",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithResourceWithRoundOff",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithResourceAndRoundOff",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFA",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFA",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAAgaintAdvancePayment",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAAgaintAdvancePayment",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAAgaintPartialAdvancePayment",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAAgaintPartialAdvancePayment",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAPartialShipment",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAPartialInvoice",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesOrderWithFAWithoutThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesInvoiceWithFAWithOutThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Documents"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithRoundOff",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithoutTCAN",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithThresholdAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithoutThresholdOverlook",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithoutThresholdAndSurchargeOverlook",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithConcessional",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithMultiTaxRateEffectiveDate",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithCurrency",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithoutPAN",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithConcessionalCode",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesJnlWithMultiLine",
+        "CodeunitName":  "TCS On Sales Journal"
+    },
+    {
+        "Method":  "PostFromSalesReturnOrderWithItemWithConcessional",
+        "CodeunitName":  "TCS on Sales Return"
+    },
+    {
+        "Method":  "PostFromReturnOrderWithGLAccWithoutThresholdOverlook",
+        "CodeunitName":  "TCS on Sales Return"
+    },
+    {
+        "Method":  "PostFromCrMemoWithGLAccWithoutThresholdAndSurchargeOverlook",
+        "CodeunitName":  "TCS on Sales Return"
+    },
+    {
+        "Method":  "PostFromReturnOrderWithGLAccWithoutThresholdAndSurchargeOverlook",
+        "CodeunitName":  "TCS on Sales Return"
+    },
+    {
+        "Method":  "PostFromCrMemoWithItemWithConcessional",
+        "CodeunitName":  "TCS on Sales Return"
+    },
+    {
+        "Method":  "PostFromReturnOrderWithItemWithConcessional",
+        "CodeunitName":  "TCS on Sales Return"
+    },
+    {
+        "Method":  "PostFromCrMemoWithItemWithoutPAN",
+        "CodeunitName":  "TCS on Sales Return"
+    },
+    {
+        "Method":  "PostFromSalesRetunOrderWithItemWithoutPAN",
+        "CodeunitName":  "TCS on Sales Return"
+    },
+    {
+        "Method":  "PostFromSalesCrMemoWithItemWithConcessional",
+        "CodeunitName":  "TCS on Sales Return"
+    },
+    {
+        "Method":  "SalesCreditMemoApplyInvoice",
+        "CodeunitName":  "TCS on Sales Return"
+    },
+    {
+        "Method":  "PostAndReverseTCSEntries",
+        "CodeunitName":  "TCS Pay Adjustment"
+    },
+    {
+        "Method":  "PostAndReverseTDSEntriesWhichIsPaidToGovernment",
+        "CodeunitName":  "TCS Pay Adjustment"
+    },
+    {
+        "Method":  "PostAdjustedTCSEntriedWhichIsAlreadyPaidToGovernment",
+        "CodeunitName":  "TCS Pay Adjustment"
+    },
+    {
+        "Method":  "PostTCSEntriesAndAdjustment",
+        "CodeunitName":  "TCS Pay Adjustment"
+    },
+    {
+        "Method":  "PostTCSEntriesAndAdjustmentWithZero",
+        "CodeunitName":  "TCS Pay Adjustment"
+    },
+    {
+        "Method":  "PostAdjustedTCSEntriedWhichIsAlreadyAdjusted",
+        "CodeunitName":  "TCS Pay Adjustment"
+    },
+    {
+        "Method":  "PostAdjustedTCSEntriedWithBaseAmountApplied",
+        "CodeunitName":  "TCS Pay Adjustment"
+    },
+    {
+        "Method":  "CreateNewTemplateAndBatchForTCSAdjustment",
+        "CodeunitName":  "TCS Pay Adjustment"
+    },
+    {
+        "Method":  "PostFromCashReceiptVoucherWithTCSOnPayment",
+        "CodeunitName":  "TCS On Payment Tests"
+    },
+    {
+        "Method":  "PostFromCashReceiptVoucherWithTCSOnPaymentAndFCYCurrency",
+        "CodeunitName":  "TCS On Payment Tests"
+    },
+    {
+        "Method":  "CheckOnCashPayVoucherInvoiceWithWrongTCSNOC",
+        "CodeunitName":  "TCS On Payment Tests"
+    },
+    {
+        "Method":  "CheckOnCashPayVoucherPaymentExclusdeGST",
+        "CodeunitName":  "TCS On Payment Tests"
+    },
+    {
+        "Method":  "CheckOnCashPayVoucherPaymentWithPaymentRcptAmountIsLess",
+        "CodeunitName":  "TCS On Payment Tests"
+    },
+    {
+        "Method":  "CheckOnCashPayVoucherPaymentWithAmountIsLessThanPmtRcptAmount",
+        "CodeunitName":  "TCS On Payment Tests"
+    },
+    {
+        "Method":  "CheckOnCashPayVoucherPaymentWithPaymentRcptAmountIsLessThanZero",
+        "CodeunitName":  "TCS On Payment Tests"
+    },
+    {
+        "Method":  "CheckOnCashReceiptVoucherTCSNOCLookup",
+        "CodeunitName":  "TCS On Payment Tests"
+    },
+    {
+        "Method":  "CheckOnCashReceiptVoucherWithNotAllowedTCSNOC",
+        "CodeunitName":  "TCS On Payment Tests"
+    },
+    {
+        "Method":  "PosteFromGenJnlWithoutAccountingPeriod",
+        "CodeunitName":  "TCS On General Journal"
+    },
+    {
+        "Method":  "PostFromGenJnlWithoutTCAN",
+        "CodeunitName":  "TCS On General Journal"
+    },
+    {
+        "Method":  "PostGenJnlWithThresholdAndSurchargeOverlook",
+        "CodeunitName":  "TCS On General Journal"
+    },
+    {
+        "Method":  "PostGenJnlWithThresholdOverlook",
+        "CodeunitName":  "TCS On General Journal"
+    },
+    {
+        "Method":  "PostGenJnlWithCurrency",
+        "CodeunitName":  "TCS On General Journal"
+    },
+    {
+        "Method":  "PostGenJnlWithoutPAN",
+        "CodeunitName":  "TCS On General Journal"
+    },
+    {
+        "Method":  "PostGenJnlWithConcessional",
+        "CodeunitName":  "TCS On General Journal"
+    },
+    {
+        "Method":  "PostGenJnlWithMultiLine",
+        "CodeunitName":  "TCS On General Journal"
+    },
+    {
+        "Method":  "PostGenJnlWithCurrencyWithSurchargeOverlook",
+        "CodeunitName":  "TCS On General Journal"
+    },
+    {
+        "Method":  "CheckTCSNOCOnGeneralJournalLine",
+        "CodeunitName":  "TCS On General Journal"
+    },
+    {
+        "Method":  "PostFromGeneralJournalTCS",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromGeneralJournalTCSWithConssionalCode",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromGeneralJournalTCSWithoutThreshholdAndSurcharge",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromGeneralJournalTCSWithoutThreshholdAndWithSurcharge",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromGeneralJournalTCSForAdvancePayment",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromGeneralJournalTCSForFCY",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromAdvanceGeneralJournalWithTCSRoundOff",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromCashReceiptJournalTCSAndAdvancePayment",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromCashReceiptJournalWithTCS",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromCashReceiptJournalTCSWithAdvancePaymentAndRoundingOff",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromCashReceiptJournalWithTCSAndFCY",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromCashReceiptJournalWithTCSAndDifferentAssesseeCode",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromTCSGeneralJournalWithAdditionalCurrency",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromCashReceiptJournalWithTCSAndAdditionalCurrency",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostFromCashReceiptJournalWithTCSAndDifferentEffectiveDates",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PayTCSToGovernmentFromBankPmtVoucher",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PayTCSToGovernmentFromSalesjournal",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PostAndPayTCSToGovernmentAndVerify",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PayTCSToGovernmentdeductedUsingPaymentJournal",
+        "CodeunitName":  "TCS On Journals"
+    }
+]

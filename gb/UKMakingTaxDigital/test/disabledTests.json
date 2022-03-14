@@ -1,0 +1,398 @@
+﻿[
+    {
+        "Method":  "CheckVATRegNoAfterAuthorization_Deny",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "CheckVATRegNoAfterAuthorization_Accept",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "CheckOAuthConfigured_GetPayments_AcceptOpenSetup_SetEnabled",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "ParseErrors_Basic",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "ParseErrors_Advanced",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "ParseErrors_Error429_TooManyReq",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "MTDConnection_InvokeRequest_RefreshAccessToken_Negative",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "MTDConnection_InvokeRequest_RefreshAccessToken_Positive",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "MTDConnection_InvokeRequest_RefreshAccessToken_Positive_ExpireInSec",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "FraudPreventionHeaders_WebClient",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "FraudPreventionHeaders_WinClient",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "FraudPreventionHeaders_BatchClient",
+        "CodeunitName":  "MTDTestOAuthWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_Negative_DisabledOutput",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_Negative_Reason",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_Negative_BlankedJsonResponse",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_Negative_WrongJsonResponse",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_OneNew_DisabledOutput",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_OneNew_ExpiredToken",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_OneNewPmtWithDate_UI",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_OneNewPmtWithoutDate",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_OneUpToDatePmtWithDate",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_OneUpToDatePmtWithoutDate",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_OneModifiedPmtWithDate",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_OneModifiedPmtWithoutDate",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_TwoNewPmtWithDates",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_TwoNewPmtWithoutDates",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_TwoNewPmtWithOnlyFirstDate",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_TwoNewPmtWithOnlySecondDate",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_TwoUpToDatePmt",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_TwoModifiedPmt",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_TwoPmtInclOneNew",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_TwoPmtInclOneModified",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATPaymentsAndShowResult_TwoPmtInclOneNewAndOneModified",
+        "CodeunitName":  "MTDTestPaymentsWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_Negative_DisabledOutput",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_Negative_Reason",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_Negative_BlankedJsonResponse",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_Negative_WrongJsonResponse",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_OneNewLbl_DisabledOutput",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_OneNewLbl_UI",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_OneNew_ExpiredToken",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_OneUpToDateLbl",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_OneModifiedLbl_OrgAmt",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_OneModifiedLbl_OutstAmt",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_OneModifiedLbl_DueDate",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_TwoNewLbl",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_TwoUpToDateLbl",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_TwoModifiedLbl",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_TwoLblInclOneNew",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_TwoLblInclOneModified",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATLiabilitiesAndShowResult_TwoLblInclOneNewAndOneModified",
+        "CodeunitName":  "MTDTestLiabilitiesWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_Negative_DisabledOutput",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_Negative_Reason",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_Negative_BlankedJsonResponse",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_Negative_WrongJsonResponse",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_OneNewPeriod_DisabledOutput",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_OneNewPeriod_UI",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_OneNewPeriod_ExpiredToken",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_OneUpToDatePeriod",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_OneModifiedPeriod_OrgAmt",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_OneModifiedPeriod_PeriodKey",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_OneModifiedPeriod_Status",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_OneModifiedPeriod_ReceivedDate",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_TwoNewPeriods",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_TwoUpToDatePeriods",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_TwoModifiedPeriods",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_TwoPeriodsInclOneNew",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_TwoPeriodsInclOneModified",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_TwoPeriodsInclOneNewAndOneModified",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_AutoReceiveJob_Negative",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATPeriods_AutoReceiveJob_Positive",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "MarkAcceptedVATReturnAsClosed",
+        "CodeunitName":  "MTDTestPeriodsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Negative_DisabledOutput",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Negative_Reason",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Negative_BlankedJsonResponse",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Negative_WrongJsonResponse",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_New_DisabledOutput",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_New_UI",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_New_ExpiredToken",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_UpToDate",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Modified_PeriodKey",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Modified_VATDueSales",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Modified_VATDueAcquisitions",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Modified_TotalVATDue",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Modified_VATReclaimedCurrPeriod",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Modified_NetVATDue",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Modified_TotalValueSalesExclVAT",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Modified_TotalValuePurchasesExclVAT",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Modified_TotalValueGoodsSupplExVAT",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Modified_TotalAcquisitionsExclVAT",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "GetVATReturns_Error404NotFound",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "SubmitVATReturns_Negative_Reason",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "SubmitVATReturns_Positive_BlankedJsonResponse",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "SubmitVATReturns_Positive_WrongJsonResponse",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "SubmitVATReturns_Positive_JsonResponse",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "SubmitVATReturns_ExpiredToken",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "SubmitVATReturns_Timeout",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "MarkSubmittedVATReturnAsAccepted",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "VATReturn_SubmitReturnContent_SubmittedNotAccepted",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "VATReturn_SubmitReturnContent_SubmittedAndAcceptedLater",
+        "CodeunitName":  "MTDTestReturnsWebService"
+    }
+]

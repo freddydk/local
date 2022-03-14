@@ -1,0 +1,174 @@
+﻿[
+    {
+        "Method":  "TestServiceHandles500",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestServiceHandles404",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestServiceHandles403",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestServiceInvalidCobrandResponse",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestServiceHandles200",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestLogErrorOnConnectionFailure",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestSessionTokens",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestResetSessionTokens",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingServiceData",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingServiceRefreshData",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingServiceRefreshAutomatic",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingServiceRefreshMFA",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateGetLinkedAccountsFail",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateGetDetailedLinkedAccountsFail",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateFindsExistingAccounts",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateFindsExistingDuplicateAccount",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingCreateWithNoNewAccounts",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateLaunchFromNonLinkedBankAccount",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateRemovesUnlinkedAccounts",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdatePromptsMissingLinkings",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdatePromptsMissingLinkingsWithAction",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateMissLinksCreateNew",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateMissLinksReselect",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateAutoLink",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateCreateNewAndAutoLink",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateUnLinkAction",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateUnLinkActionFromLinkedAccount",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestBankLinkingUpdateUnLinkActionFromNewLinkedAccount",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestGetTransactions",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestGetTransactionsWithActivityLogging",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestGetTransactionsIntoNewPmtReconJnl",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestJobQueueRemovedOnAccountDeletion",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestGetTransactionsViaJobQueue",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestGetTransactionsViaJobQueueTwice",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestGetTransactionsCurrencyMissmatch",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestGetTransactionsWrongBankAccountID",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestDefaultTransactionImportTimespan",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestServiceSetupFromIsolatedStorage",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestCreateConsumerOnAuthenticate",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestCreateConsumerSuccessWithNoTenantId",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestRemoveConsumerOnDisable",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestRemoveConsumerOnNoLinkedBankAccounts",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    },
+    {
+        "Method":  "TestRegisterConsumerShouldGenerateUserNameIfNotExist",
+        "CodeunitName":  "MS - Yodlee Bank Service Tests"
+    }
+]
