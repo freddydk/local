@@ -30,7 +30,7 @@
                                       }
                                   ],
     "installTestApps":  [
-                            "(:C:\\Applications\\BaseApp\\Test\\Microsoft_Tests-SMB.app)",
-                            "(:C:\\Applications\\BaseApp\\Test\\Microsoft_Tests-Misc.app)"
+                            "(:C:\\Applications.CZ\\Microsoft_Tests-SMB_*.app)",
+                            "(:C:\\Applications.CZ\\Microsoft_Tests-Misc_*.app)"
                         ]
 }
