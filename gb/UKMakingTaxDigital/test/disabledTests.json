@@ -394,5 +394,17 @@
     {
         "Method":  "VATReturn_SubmitReturnContent_SubmittedAndAcceptedLater",
         "CodeunitName":  "MTDTestReturnsWebService"
+    },
+    {
+        "Method":  "D365_Read",
+        "CodeunitName":  "MTD Test Permissions"
+    },
+    {
+        "Method":  "D365_TEAM_MEMBER",
+        "CodeunitName":  "MTD Test Permissions"
+    },
+    {
+        "Method":  "D365_IntelligentCloud",
+        "CodeunitName":  "MTD Test Permissions"
     }
 ]

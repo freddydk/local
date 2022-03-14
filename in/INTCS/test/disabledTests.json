@@ -1266,5 +1266,13 @@
     {
         "Method":  "PayTCSToGovernmentdeductedUsingPaymentJournal",
         "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PayTCSToGovernmentFromBankPmtVoucherWithoutTCS",
+        "CodeunitName":  "TCS On Journals"
+    },
+    {
+        "Method":  "PayTCSToGovernmentFromSalesJournalWithoutTCS",
+        "CodeunitName":  "TCS On Journals"
     }
 ]
