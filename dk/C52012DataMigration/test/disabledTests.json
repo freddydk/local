@@ -1,0 +1,106 @@
+﻿[
+    {
+        "Method":  "TestCustTableMigrationWithCoA",
+        "CodeunitName":  "C5 CustTable Migrator Tst"
+    },
+    {
+        "Method":  "TestCustTableMigrationWithoutCoA",
+        "CodeunitName":  "C5 CustTable Migrator Tst"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForItemsOnly",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForVendorsOnly",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForCustomersOnly",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForAccountsOnly",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForHistoryOnly",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForAllMasterData",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestOnFailToUnzipFile",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestProcessZipFile",
+        "CodeunitName":  "C5 Schema Reader Tests"
+    },
+    {
+        "Method":  "TestFilesAreIncludedInSubfolder",
+        "CodeunitName":  "C5 Schema Reader Tests"
+    },
+    {
+        "Method":  "TestFilesAreMissingFromTheZip",
+        "CodeunitName":  "C5 Schema Reader Tests"
+    },
+    {
+        "Method":  "TestZipFileMissing",
+        "CodeunitName":  "C5 Schema Reader Tests"
+    },
+    {
+        "Method":  "TestCustTableMigrationWithCoA",
+        "CodeunitName":  "C5 CustTable Migrator Tst"
+    },
+    {
+        "Method":  "TestCustTableMigrationWithoutCoA",
+        "CodeunitName":  "C5 CustTable Migrator Tst"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForItemsOnly",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForVendorsOnly",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForCustomersOnly",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForAccountsOnly",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForHistoryOnly",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestStagingTablesLoadingForAllMasterData",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestOnFailToUnzipFile",
+        "CodeunitName":  "C5 Data Loader Tests"
+    },
+    {
+        "Method":  "TestProcessZipFile",
+        "CodeunitName":  "C5 Schema Reader Tests"
+    },
+    {
+        "Method":  "TestFilesAreIncludedInSubfolder",
+        "CodeunitName":  "C5 Schema Reader Tests"
+    },
+    {
+        "Method":  "TestFilesAreMissingFromTheZip",
+        "CodeunitName":  "C5 Schema Reader Tests"
+    },
+    {
+        "Method":  "TestZipFileMissing",
+        "CodeunitName":  "C5 Schema Reader Tests"
+    }
+]

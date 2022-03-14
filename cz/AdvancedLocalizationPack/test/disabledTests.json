@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Method":  "ServiceLineChangeGenProdPostingGroupUseGPPGfromSKU",
+        "CodeunitName":  "Gen. Prod. Post. Group SKU CZA"
+    },
+    {
+        "Method":  "ServiceLineChangeGenProdPostingGroupNotUseGPPGfromSKU",
+        "CodeunitName":  "Gen. Prod. Post. Group SKU CZA"
+    },
+    {
+        "Method":  "ApplyingGLEntriesAutomatically",
+        "CodeunitName":  "Applying G/L Entries CZA"
+    },
+    {
+        "Method":  "PrintingInventoryAccountToDate",
+        "CodeunitName":  "Reports and Documents CZA"
+    }
+]

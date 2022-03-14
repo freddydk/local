@@ -1,0 +1,34 @@
+﻿[
+    {
+        "Method":  "PaymentOrderCreation",
+        "CodeunitName":  "Banking Documents CZB"
+    },
+    {
+        "Method":  "PaymentsSuggestionFromPostedPurchInvoice",
+        "CodeunitName":  "Banking Documents CZB"
+    },
+    {
+        "Method":  "CheckIssuePaymentOrder",
+        "CodeunitName":  "Banking Documents CZB"
+    },
+    {
+        "Method":  "CopyingPaymentOrderToBankStatement",
+        "CodeunitName":  "Banking Documents CZB"
+    },
+    {
+        "Method":  "ApplyingBankStatementWithSalesInvoice",
+        "CodeunitName":  "Banking Documents CZB"
+    },
+    {
+        "Method":  "InvalidFormatBankAccountNoDuringIssuing",
+        "CodeunitName":  "Banking Documents CZB"
+    },
+    {
+        "Method":  "BlockingEntriesToPaymentOrder",
+        "CodeunitName":  "Banking Documents CZB"
+    },
+    {
+        "Method":  "PrintingIssuedPaymentOrder",
+        "CodeunitName":  "Banking Documents CZB"
+    }
+]

@@ -1,0 +1,14 @@
+﻿[
+    {
+        "Method":  "VerifyMappedTablesStaged",
+        "CodeunitName":  "Test Upgrade CZ"
+    },
+    {
+        "Method":  "VerifyMappedTablesUnstaged",
+        "CodeunitName":  "Test Upgrade CZ"
+    },
+    {
+        "Method":  "VATPostingSetupTransformsCorrectFields",
+        "CodeunitName":  "Test Upgrade CZ"
+    }
+]

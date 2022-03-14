@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Method":  "TestMultilonSampleImport",
+        "CodeunitName":  "Test Payroll Imp. Gen. Jnl. Ln"
+    },
+    {
+        "Method":  "TestDatalonSampleImport",
+        "CodeunitName":  "Test Payroll Imp. Gen. Jnl. Ln"
+    },
+    {
+        "Method":  "TestMultilonSampleImport",
+        "CodeunitName":  "Test Payroll Imp. Gen. Jnl. Ln"
+    },
+    {
+        "Method":  "TestDatalonSampleImport",
+        "CodeunitName":  "Test Payroll Imp. Gen. Jnl. Ln"
+    }
+]

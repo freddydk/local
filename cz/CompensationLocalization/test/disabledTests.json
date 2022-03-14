@@ -1,0 +1,42 @@
+﻿[
+    {
+        "Method":  "ReleasingCompensationWithCustLedgEntries",
+        "CodeunitName":  "Compensations CZC"
+    },
+    {
+        "Method":  "ReleasingCompensationWithVendLedgEntries",
+        "CodeunitName":  "Compensations CZC"
+    },
+    {
+        "Method":  "PostingCompensationWithCustLedgEntries",
+        "CodeunitName":  "Compensations CZC"
+    },
+    {
+        "Method":  "PostingCompensationWithVendLedgEntries",
+        "CodeunitName":  "Compensations CZC"
+    },
+    {
+        "Method":  "AutomaticSuggestCompensationLines",
+        "CodeunitName":  "Compensations CZC"
+    },
+    {
+        "Method":  "BlockingEntriesOnReleasedCompensations",
+        "CodeunitName":  "Compensations CZC"
+    },
+    {
+        "Method":  "PrintingCompensationWithCustLedgEntries",
+        "CodeunitName":  "Compensations Reports CZC"
+    },
+    {
+        "Method":  "PrintingCompensationWithVendLedgEntries",
+        "CodeunitName":  "Compensations Reports CZC"
+    },
+    {
+        "Method":  "PrintingPostedCompensationWithCustLedgEntries",
+        "CodeunitName":  "Compensations Reports CZC"
+    },
+    {
+        "Method":  "PrintingPostedCompensationWithVendLedgEntries",
+        "CodeunitName":  "Compensations Reports CZC"
+    }
+]

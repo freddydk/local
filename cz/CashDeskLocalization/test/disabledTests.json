@@ -1,0 +1,166 @@
+﻿[
+    {
+        "Method":  "ReleaseReceiptCashDocument",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "ReleaseWithdrawalCashDocument",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "ReleaseReceiptCashDocumentWithGreatAmount",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "PostingReceiptCashDocument",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "PostingWithdrawalCashDocument",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "ReleaseWithdrawalCashDocumentWithRounding",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "PostingWithdrawalCashDocumentWithFixedAsset",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "ApplyingSalesInvoice",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "ReleaseReceiptCashDocumentWithNegativeAmount",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "ReleaseWithdrawalCashDocumentWithNegativeAmount",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "CreateCashDocumentWithoutPermissions",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "TestDocumentRounding",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "PaymentToleranceInCashDocument",
+        "CodeunitName":  "Cash Desk Documents CZP"
+    },
+    {
+        "Method":  "CreatingReceiptCashDocumentFromSalesInvoice",
+        "CodeunitName":  "Cash Desk Sales CZP"
+    },
+    {
+        "Method":  "ReleasingReceiptCashDocumentFromSalesInvoice",
+        "CodeunitName":  "Cash Desk Sales CZP"
+    },
+    {
+        "Method":  "PostingReceiptCashDocumentFromSalesInvoice",
+        "CodeunitName":  "Cash Desk Sales CZP"
+    },
+    {
+        "Method":  "CreatingWithdrawalCashDocumentFromSalesCrMemo",
+        "CodeunitName":  "Cash Desk Sales CZP"
+    },
+    {
+        "Method":  "ReleasingWithdrawalCashDocumentFromSalesCrMemo",
+        "CodeunitName":  "Cash Desk Sales CZP"
+    },
+    {
+        "Method":  "PostingWithdrawalCashDocumentFromSalesCrMemo",
+        "CodeunitName":  "Cash Desk Sales CZP"
+    },
+    {
+        "Method":  "CreatingWithdrawalCashDocumentFromPurchaseInvoice",
+        "CodeunitName":  "Cash Desk Purchase CZP"
+    },
+    {
+        "Method":  "ReleasingWithdrawalCashDocumentFromPurchaseInvoice",
+        "CodeunitName":  "Cash Desk Purchase CZP"
+    },
+    {
+        "Method":  "PostingWithdrawalCashDocumentFromPurchaseInvoice",
+        "CodeunitName":  "Cash Desk Purchase CZP"
+    },
+    {
+        "Method":  "CreatingReceiptCashDocumentFromPurchaseCrMemo",
+        "CodeunitName":  "Cash Desk Purchase CZP"
+    },
+    {
+        "Method":  "ReleasingReceiptCashDocumentFromPurchaseCrMemo",
+        "CodeunitName":  "Cash Desk Purchase CZP"
+    },
+    {
+        "Method":  "PostingReceiptCashDocumentFromPurchaseCrMemo",
+        "CodeunitName":  "Cash Desk Purchase CZP"
+    },
+    {
+        "Method":  "CreatingReceiptCashDocumentFromServiceInvoice",
+        "CodeunitName":  "Cash Desk Service CZP"
+    },
+    {
+        "Method":  "ReleasingReceiptCashDocumentFromServiceInvoice",
+        "CodeunitName":  "Cash Desk Service CZP"
+    },
+    {
+        "Method":  "PostingReceiptCashDocumentFromServiceInvoice",
+        "CodeunitName":  "Cash Desk Service CZP"
+    },
+    {
+        "Method":  "CreatingWithdrawalCashDocumentFromServiceCrMemo",
+        "CodeunitName":  "Cash Desk Service CZP"
+    },
+    {
+        "Method":  "ReleasingWithdrawalCashDocumentFromServiceCrMemo",
+        "CodeunitName":  "Cash Desk Service CZP"
+    },
+    {
+        "Method":  "PostingWithdrawalCashDocumentFromServiceCrMemo",
+        "CodeunitName":  "Cash Desk Service CZP"
+    },
+    {
+        "Method":  "PrintingReceiptCashDocument",
+        "CodeunitName":  "Cash Desk Reports CZP"
+    },
+    {
+        "Method":  "PrintingWithdrawalCashDocument",
+        "CodeunitName":  "Cash Desk Reports CZP"
+    },
+    {
+        "Method":  "PrintingPostedReceiptCashDocument",
+        "CodeunitName":  "Cash Desk Reports CZP"
+    },
+    {
+        "Method":  "PrintingPostedWithdrawalCashDocument",
+        "CodeunitName":  "Cash Desk Reports CZP"
+    },
+    {
+        "Method":  "PrintingCashDeskBook",
+        "CodeunitName":  "Cash Desk Reports CZP"
+    },
+    {
+        "Method":  "CashDocumentAttachDocument",
+        "CodeunitName":  "Cash Document Attachments CZP"
+    },
+    {
+        "Method":  "CashDocumentPrintToAttachDocument",
+        "CodeunitName":  "Cash Document Attachments CZP"
+    },
+    {
+        "Method":  "CashDocumentAttachDocumentIsDeleted",
+        "CodeunitName":  "Cash Document Attachments CZP"
+    },
+    {
+        "Method":  "PostCashDocumentAttachDocument",
+        "CodeunitName":  "Cash Document Attachments CZP"
+    },
+    {
+        "Method":  "PostedCashDocumentPrintToAttachDocument",
+        "CodeunitName":  "Cash Document Attachments CZP"
+    }
+]

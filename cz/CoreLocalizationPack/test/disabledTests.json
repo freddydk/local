@@ -1,0 +1,338 @@
+﻿[
+    {
+        "Method":  "GenJnlLinePostWithVatDate",
+        "CodeunitName":  "VAT Date CZL"
+    },
+    {
+        "Method":  "GenJnlLinePostWithoutVATToClosedVATPeriod",
+        "CodeunitName":  "VAT Date CZL"
+    },
+    {
+        "Method":  "GenJnlLinePostWithVATToClosedVATPeriod",
+        "CodeunitName":  "VAT Date CZL"
+    },
+    {
+        "Method":  "VATStatementFilteredByPostingDate",
+        "CodeunitName":  "VAT Date CZL"
+    },
+    {
+        "Method":  "VATStatementFilteredByVATDate",
+        "CodeunitName":  "VAT Date CZL"
+    },
+    {
+        "Method":  "VATStatementFilteredBySettlementNo",
+        "CodeunitName":  "VAT Date CZL"
+    },
+    {
+        "Method":  "CalcAndPostVATByPostingDate",
+        "CodeunitName":  "VAT Date CZL"
+    },
+    {
+        "Method":  "CalcAndPostVATByVATDate",
+        "CodeunitName":  "VAT Date CZL"
+    },
+    {
+        "Method":  "CalcAndPostVATBySettlementNo",
+        "CodeunitName":  "VAT Date CZL"
+    },
+    {
+        "Method":  "CustomerPostingGroupChangeDisabled",
+        "CodeunitName":  "Posting Group Changing CZL"
+    },
+    {
+        "Method":  "CustomerPostingGroupChangeEnabled",
+        "CodeunitName":  "Posting Group Changing CZL"
+    },
+    {
+        "Method":  "VendorPostingGroupChangeDisabled",
+        "CodeunitName":  "Posting Group Changing CZL"
+    },
+    {
+        "Method":  "VendorPostingGroupChangeEnabled",
+        "CodeunitName":  "Posting Group Changing CZL"
+    },
+    {
+        "Method":  "GLAccountGroupPostingCheckReportSameGroups",
+        "CodeunitName":  "G/L Account Group CZL"
+    },
+    {
+        "Method":  "GLAccountGroupPostingCheckReportDifferentGroups",
+        "CodeunitName":  "G/L Account Group CZL"
+    },
+    {
+        "Method":  "CreateSKUbyTemplate",
+        "CodeunitName":  "Stockkeeping Unit Template CZL"
+    },
+    {
+        "Method":  "CalcPostVATSettlement",
+        "CodeunitName":  "Financial Reports CZL"
+    },
+    {
+        "Method":  "BalanceSheet",
+        "CodeunitName":  "Financial Reports CZL"
+    },
+    {
+        "Method":  "IncomeStatement",
+        "CodeunitName":  "Financial Reports CZL"
+    },
+    {
+        "Method":  "VATStatementPreviewVATDate",
+        "CodeunitName":  "VAT Statements CZL"
+    },
+    {
+        "Method":  "VATStatementDPHDP3Print",
+        "CodeunitName":  "VAT Statements CZL"
+    },
+    {
+        "Method":  "VATStatementDPHDP3Export",
+        "CodeunitName":  "VAT Statements CZL"
+    },
+    {
+        "Method":  "VATStatementDPHDP3PrintAdditional",
+        "CodeunitName":  "VAT Statements CZL"
+    },
+    {
+        "Method":  "SuggestPurchaseDocumentToVATControlReportSectionB2",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "SuggestPurchaseDocumentToVATControlReportSectionB3",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "SuggestPurchaseDocumentToVATControlReportSectionB1",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "SuggestSalesDocumentToVATControlReportSectionA4",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "SuggestSalesDocumentToVATControlReportSectionA5",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "SuggestSalesDocumentToVATControlReportSectionA1",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "SuggestPurchaseDocumentToVATControlReportSectionA2",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "SuggestPurchaseDocumentToVATControlReportByVATDate",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "SuggestSalesDocumentToVATControlReportByVATDate",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "SuggestSalesDocumentToVATControlReportWithIgnoreSimpleDocLimit",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "SuggestSalesDocumentToVATControlReportSectionA1WithTariffNoCombinations",
+        "CodeunitName":  "VAT Ctrl. Report CZL"
+    },
+    {
+        "Method":  "EU3PartyTradeCopiedToPurchaseVATEntry",
+        "CodeunitName":  "VAT Fields CZL"
+    },
+    {
+        "Method":  "EU3PartyIntermediateRoleCopiedToPurchaseVATEntry",
+        "CodeunitName":  "VAT Fields CZL"
+    },
+    {
+        "Method":  "EU3PartyIntermediateRoleCopiedToSalesVATEntry",
+        "CodeunitName":  "VAT Fields CZL"
+    },
+    {
+        "Method":  "OriginalDocumetVATDateGreaterThanVATDate",
+        "CodeunitName":  "VAT Fields CZL"
+    },
+    {
+        "Method":  "GeneralPostingWithEmptyOriginalDocumentVATDate",
+        "CodeunitName":  "VAT Fields CZL"
+    },
+    {
+        "Method":  "CopyVATDateToPostedGenJournalLine",
+        "CodeunitName":  "VAT Fields CZL"
+    },
+    {
+        "Method":  "VATStatementTotaling",
+        "CodeunitName":  "VAT Fields CZL"
+    },
+    {
+        "Method":  "VATStatementTotalingPositiveZero",
+        "CodeunitName":  "VAT Fields CZL"
+    },
+    {
+        "Method":  "VATStatementTotalingNegativeZero",
+        "CodeunitName":  "VAT Fields CZL"
+    },
+    {
+        "Method":  "VATCurrencyFactorInPostedPurchaseHeader",
+        "CodeunitName":  "VAT Exchange Rate CZL"
+    },
+    {
+        "Method":  "CreateVIESDeclarationServiceSales",
+        "CodeunitName":  "VIES Declaration CZL"
+    },
+    {
+        "Method":  "CreateVIESDeclaration3PartyTrade",
+        "CodeunitName":  "VIES Declaration CZL"
+    },
+    {
+        "Method":  "PrintVIESDeclarationTestReport",
+        "CodeunitName":  "VIES Declaration CZL"
+    },
+    {
+        "Method":  "ExportVIESDeclarationOpened",
+        "CodeunitName":  "VIES Declaration CZL"
+    },
+    {
+        "Method":  "ExportVIESDeclarationReleased",
+        "CodeunitName":  "VIES Declaration CZL"
+    },
+    {
+        "Method":  "CreateVIESDeclarationCorrective",
+        "CodeunitName":  "VIES Declaration CZL"
+    },
+    {
+        "Method":  "ExportVIESDeclarationCorrective",
+        "CodeunitName":  "VIES Declaration CZL"
+    },
+    {
+        "Method":  "ChangeSectionOnVATControlReportLine",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "BulkChangeSectionOnVATControlReportLines",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "ChangeExternalDocumentNoOnVATControlReportLine",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "ChangeEditableFieldsOnVATControlReportLine",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "ExportInternalDocCheckToExcel",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "PrintVATControlReportTest",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "ShowVATControlReportStatistic",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "CloseVATControlReport",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "ExportRecapitulativeVATControlReport",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "ExcludeLineFromExportVATControlReport",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "ExportSupplementaryVATControlReport",
+        "CodeunitName":  "VAT Ctrl. Report UT CZL"
+    },
+    {
+        "Method":  "OpeningBalanceSheet",
+        "CodeunitName":  "Balance Sheet Reports CZL"
+    },
+    {
+        "Method":  "AdjustExchangeRateSplitToCustomer",
+        "CodeunitName":  "Foreign Currencies CZL"
+    },
+    {
+        "Method":  "AdjustExchangeRateSplitToVendor",
+        "CodeunitName":  "Foreign Currencies CZL"
+    },
+    {
+        "Method":  "AdjustExchangeRateTestReport",
+        "CodeunitName":  "Foreign Currencies CZL"
+    },
+    {
+        "Method":  "AdjustExchangeRatePostingByEntries",
+        "CodeunitName":  "Foreign Currencies CZL"
+    },
+    {
+        "Method":  "AdjustExchangeRateIncrementalPosting",
+        "CodeunitName":  "Foreign Currencies CZL"
+    },
+    {
+        "Method":  "LoadingStoredItems",
+        "CodeunitName":  "Phys. Inventory CZL"
+    },
+    {
+        "Method":  "RedEntriesFromPurchaseCorrectionDocuments",
+        "CodeunitName":  "Purchase Documents CZL"
+    },
+    {
+        "Method":  "PrintingCustomerBalReconciliation",
+        "CodeunitName":  "Reports and Documents CZL"
+    },
+    {
+        "Method":  "PrintingVendorBalReconciliation",
+        "CodeunitName":  "Reports and Documents CZL"
+    },
+    {
+        "Method":  "PrintingGeneralJournal",
+        "CodeunitName":  "Reports and Documents CZL"
+    },
+    {
+        "Method":  "PrintingGeneralLedgerLevel1",
+        "CodeunitName":  "Reports and Documents CZL"
+    },
+    {
+        "Method":  "PrintingGeneralLedgerLevel2",
+        "CodeunitName":  "Reports and Documents CZL"
+    },
+    {
+        "Method":  "PrintingTurnoverReportByGlobDim1",
+        "CodeunitName":  "Reports and Documents CZL"
+    },
+    {
+        "Method":  "PrintingTurnoverReportByGlobDim2",
+        "CodeunitName":  "Reports and Documents CZL"
+    },
+    {
+        "Method":  "RedEntriesFromSalesCorrectionDocuments",
+        "CodeunitName":  "Sales Documents CZL"
+    },
+    {
+        "Method":  "PrintingInternalCorrectionDocument",
+        "CodeunitName":  "Sales Reports CZL"
+    },
+    {
+        "Method":  "PrintingDocumentationForVATOutVATDate",
+        "CodeunitName":  "Tax Reports CZL"
+    },
+    {
+        "Method":  "PrintingDocumentationForVATInVATDate",
+        "CodeunitName":  "Tax Reports CZL"
+    },
+    {
+        "Method":  "TestDocumentFooterSalesInvoice",
+        "CodeunitName":  "Document Footer CZL"
+    },
+    {
+        "Method":  "TestDocumentFooterSalesCrMemo",
+        "CodeunitName":  "Document Footer CZL"
+    },
+    {
+        "Method":  "TestDocumentFooterSalesQuote",
+        "CodeunitName":  "Document Footer CZL"
+    }
+]
